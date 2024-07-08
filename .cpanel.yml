@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/agenciarubik/
+    - /bin/cp -R $DEPLOYPATH
+    - /bin/git pull origin main

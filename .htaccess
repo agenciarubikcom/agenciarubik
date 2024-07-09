@@ -1,7 +1,5 @@
 <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^([^/]+)/?$ $1.php [L]
-RewriteRule ^(en|es)/service$ service.php [L,QSA]
+  RewriteEngine On RewriteCond %{REQUEST_FILENAME} !-d RewriteCond
+  %{REQUEST_FILENAME}\.php -f RewriteRule ^([^/]+)/?$ $1.php [L] RewriteRule
+  ^(en|es)/(.*)$ $2.php [L,QSA]
 </IfModule>

@@ -1,14 +1,10 @@
-
-
-
-
   <header class="site-header site-header--menu-center agenciarubik-header-section dark-bg white-menu" id="sticky-menu">
     <div class="container">
       <nav class="navbar site-navbar">
         <!-- Brand Logo-->
         <div class="brand-logo">
           <a href="index.html">
-            <img src="assets/images/logo/logo-white.png" alt="" class="light-version-logo">
+            <img src="<?php echo $baseUrl; ?>/assets/images/logo/logo-white.png" alt="" class="light-version-logo">
           </a>
         </div>
         <div class="menu-block-wrapper">
@@ -240,7 +236,7 @@
 
         <div class="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
           <a class="agenciarubik-default-btn agenciarubik-header-btn" href="contact-us.html">
-            <span>Get Started</span>
+            <span><?php echo translate('btn-contact', $lang, $translations); ?></span>
           </a>
         </div>
         <!-- mobile menu trigger -->

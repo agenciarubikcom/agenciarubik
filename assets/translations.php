@@ -7,6 +7,8 @@ return [
     'es_welcome' => '¡Bienvenido a nuestro servicio!',
     'en_welcome' => 'Welcome to our service!',
     'es_description' => 'Esta es una descripción de nuestro servicio.',
-    'en_description' => 'This is a description of our service.'
+    'en_description' => 'This is a description of our service.',
+    'es_btn-contact' => 'Contáctanos ahora',
+    'en_btn-contact' => 'Contact us now',
 ];
 ?>

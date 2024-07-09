@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Redirigir todas las solicitudes a service.php
+RewriteRule ^(en|es)/service.php$ service.php [L,QSA]

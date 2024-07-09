@@ -435,17 +435,17 @@
 
 
   <!-- scripts -->
-  <script src="assets/js/jquery-3.6.0.min.js"></script>
-  <script src="assets/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/menu/menu.js"></script>
-  <script src="assets/js/isotope.pkgd.min.js"></script>
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>
-  <script src="assets/js/slick.js"></script>
-  <script src="assets/js/countdown.js"></script>
-  <script src="assets/js/wow.min.js"></script>
-  <script src="assets/js/faq.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/jquery-3.6.0.min.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/menu/menu.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/isotope.pkgd.min.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/slick.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/countdown.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/wow.min.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/faq.js"></script>
 
-  <script src="assets/js/app.js"></script>
+  <script src="<?php echo $baseUrl; ?>/assets/js/app.js"></script>
 
 
 </body>

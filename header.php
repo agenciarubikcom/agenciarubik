@@ -1,5 +1,13 @@
 <!DOCTYPE html>
 <?php
+function getBaseUrl() {
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+    $domainName = $_SERVER['HTTP_HOST'];
+    return $protocol . $domainName;
+}
+
+$baseUrl = getBaseUrl();
+
 function getPreferredLanguage($availableLangs, $default = 'en') {
     // Detectar el idioma basado en la URL
     $uri = $_SERVER['REQUEST_URI'];
@@ -37,6 +45,8 @@ function translate($key, $lang, $translations) {
     $langKey = $lang . '_' . $key;
     return isset($translations[$langKey]) ? $translations[$langKey] : (isset($translations['en_' . $key]) ? $translations['en_' . $key] : 'Translation not found');
 }
+
+
 ?>
 <html lang="<?php echo $lang; ?>">
 
@@ -47,23 +57,23 @@ function translate($key, $lang, $translations) {
     <title>Agencia Rubik</title>
     <meta name="description" content="<?php echo translate('description_default', $lang, $translations); ?>">
 
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="<?php echo $baseUrl; ?>/assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo $baseUrl; ?>/assets/images/favicon.ico" type="image/x-icon">
     <!--- End favicon-->
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Raleway:wght@600;700&display=swap" rel="stylesheet">
     <!-- End google font  -->
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/slick.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/animate.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/fontawesome.css">
 
 
     <!-- Code Editor  -->
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="assets/css/app.min.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/main.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/app.min.css">
 </head>
 
 <body class="light">

@@ -26,9 +26,16 @@ include 'header.php';
           </div>
           <div class="col-lg-5 d-flex align-items-center">
             <p>Discovered our all customized services and you can double, triple, or quadruple your income & beat your competition with professional services!</p>
+
           </div>
         </div>
       </div>
+      <div class="row">
+          <div class="col-lg-12 py-5">
+      <?php include 'formcontact.php';?>
+          </div>
+      </div>
+
       <div class="row">
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-iconbox-wrap-left iconbox-left-border">
@@ -146,7 +153,6 @@ include 'header.php';
 
   <div class="agenciarubik-divider"></div>
   <!-- end divider -->
-  <iframe width="650" height="900" src="https://dash.agenciarubik.com/webform/embed/666228ea562265.55701003" frameborder="0" allowfullscreen></iframe>
 
   <div class="section agenciarubik-section-padding3">
     <div class="container">

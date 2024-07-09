@@ -3061,7 +3061,7 @@ input::placeholder, textarea::placeholder {
   }
 }
 .agenciarubik-breadcrumb {
-  padding: 195px 0 130px;
+  padding: 195px 0 100px;
   background-color: var(--dark-bg);
   text-align: center;
 }
@@ -3086,7 +3086,7 @@ input::placeholder, textarea::placeholder {
   }
 }
 h1.post__title {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   color: var(--white-color);
 }
 

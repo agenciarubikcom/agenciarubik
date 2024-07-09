@@ -116,7 +116,12 @@
   <script src="<?php echo $baseUrl; ?>/assets/js/faq.js"></script>
 
   <script src="<?php echo $baseUrl; ?>/assets/js/app.js"></script>
-
+  <?php
+    $htmlContent = ob_get_clean();
+    $additionalText = "Agencia Rubik";
+    $updatedHtml = setTitleFromH1($htmlContent, $additionalText);
+    echo $updatedHtml;
+  ?>
 
 </body>
 </html>

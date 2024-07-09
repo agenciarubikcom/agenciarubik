@@ -19,217 +19,134 @@
             </div>
             <ul class="site-menu-main">
               <li class="nav-item nav-item-has-children">
-                <a href="#" class="nav-link-item drop-trigger">Demo <i class="fas fa-angle-down"></i></a>
+                <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-marketingdigital-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="index.html">
-                      <span class="menu-item-text">Finance App</span>
+                    <a href="email-marketing.php">
+                      <span class="menu-item-text"><?php echo translate('cat-emailmarketing-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="index-02.html">
-                      <span class="menu-item-text">CRM Platform</span>
+                    <a href="redes-sociales.php">
+                      <span class="menu-item-text"><?php echo translate('cat-redessociales-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="index-03.html">
-                      <span class="menu-item-text">SaaS Startups</span>
+                    <a href="seo.php">
+                      <span class="menu-item-text"><?php echo translate('cat-seo-title', $lang, $translations); ?></span>
                     </a>
                   </li>
+
                 </ul>
               </li>
-              <li class="nav-item">
-                <a href="about-us.html" class="nav-link-item">About Us</a>
-              </li>
               <li class="nav-item nav-item-has-children">
-                <a href="#" class="nav-link-item drop-trigger">Pages <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-2">
-                  <li class="sub-menu--item">
-                    <a href="about-us.html">
-                      <span class="menu-item-text">About Us</span>
+                <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-soporte-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
+                <ul class="sub-menu" id="submenu-1">
+                <li class="sub-menu--item">
+                    <a href="soporte-wordpress.php">
+                      <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="pricing.html">
-                      <span class="menu-item-text">Pricing</span>
+                    <a href="servidores-aws.php">
+                      <span class="menu-item-text"><?php echo translate('cat-servidoresaws-title', $lang, $translations); ?></span>
                     </a>
                   </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">blog <i class="fas fa-angle-down"></i></a>
-                    <ul class="sub-menu shape-none" id="submenu-3">
-                      <li class="sub-menu--item">
-                        <a href="blog.html">
-                          <span class="menu-item-text">Our Blog</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="blog-column-one.html">
-                          <span class="menu-item-text">blog column one</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="blog-column-two.html">
-                          <span class="menu-item-text">blog column two</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="single-blog.html">
-                          <span class="menu-item-text">blog details</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Service<i class="fas fa-angle-down"></i>
+                  <li class="sub-menu--item">
+                    <a href="soporte-uxui.php">
+                      <span class="menu-item-text"><?php echo translate('cat-uxui-title', $lang, $translations); ?></span>
                     </a>
-                    <ul class="sub-menu shape-none" id="submenu-4">
-                      <li class="sub-menu--item">
-                        <a href="service.html">
-                          <span class="menu-item-text">service</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="single-service.html">
-                          <span class="menu-item-text">service details</span>
-                        </a>
-                      </li>
-                    </ul>
                   </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Team<i class="fas fa-angle-down"></i>
+                  <li class="sub-menu--item">
+                    <a href="auditoria-web.php">
+                      <span class="menu-item-text"><?php echo translate('cat-auditoriaweb-title', $lang, $translations); ?></span>
                     </a>
-                    <ul class="sub-menu shape-none" id="submenu-5">
-                      <li class="sub-menu--item">
-                        <a href="team.html">
-                          <span class="menu-item-text">team</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="single-team.html">
-                          <span class="menu-item-text">team details</span>
-                        </a>
-                      </li>
-                    </ul>
                   </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Career<i class="fas fa-angle-down"></i>
+                  <li class="sub-menu--item">
+                    <a href="testing.php">
+                      <span class="menu-item-text"><?php echo translate('cat-testing-title', $lang, $translations); ?></span>
                     </a>
-                    <ul class="sub-menu shape-none" id="submenu-6">
-                      <li class="sub-menu--item">
-                        <a href="career.html">
-                          <span class="menu-item-text">Career</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="single-career.html">
-                          <span class="menu-item-text">Career details</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Portfolio<i class="fas fa-angle-down"></i>
-                    </a>
-                    <ul class="sub-menu shape-none" id="submenu-7">
-                      <li class="sub-menu--item">
-                        <a href="portfolio-grid.html">
-                          <span class="menu-item-text">portfolio gird</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="portfolio-classic.html">
-                          <span class="menu-item-text">portfolio classic</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="single-portfolio.html">
-                          <span class="menu-item-text">Single Portfolio</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Utility<i class="fas fa-angle-down"></i>
-                    </a>
-                    <ul class="sub-menu shape-none" id="submenu-8">
-                      <li class="sub-menu--item">
-                        <a href="faq.html">
-                          <span class="menu-item-text">faq</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="errors-404.html">
-                          <span class="menu-item-text">Error 404</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="integrations.html">
-                          <span class="menu-item-text">integrations</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="testimonials.html">
-                          <span class="menu-item-text">testimonials</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="coming-soon.html">
-                          <span class="menu-item-text">Coming Soon</span>
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="sub-menu--item nav-item-has-children">
-                    <a href="#" data-menu-get="h3" class="drop-trigger">Account<i class="fas fa-angle-down"></i>
-                    </a>
-                    <ul class="sub-menu shape-none" id="submenu-9">
-                      <li class="sub-menu--item">
-                        <a href="sign-up.html">
-                          <span class="menu-item-text">sign up</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="sign-in.html">
-                          <span class="menu-item-text">sign in</span>
-                        </a>
-                      </li>
-                      <li class="sub-menu--item">
-                        <a href="reset-password.html">
-                          <span class="menu-item-text">reset password</span>
-                        </a>
-                      </li>
-                    </ul>
                   </li>
                 </ul>
               </li>
               <li class="nav-item nav-item-has-children">
-                <a href="#" class="nav-link-item drop-trigger">Blog <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-10">
+                <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-diseno-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
+                <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="blog.html">
-                      <span class="menu-item-text">Our Blog</span>
+                    <a href="re-branding.php">
+                      <span class="menu-item-text"><?php echo translate('cat-rebranding-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="blog-column-one.html">
-                      <span class="menu-item-text">blog column one</span>
+                    <a href="manual-de-marca.php">
+                      <span class="menu-item-text"><?php echo translate('cat-manualdemarca-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="blog-column-two.html">
-                      <span class="menu-item-text">blog column two</span>
+                    <a href="banners.php">
+                      <span class="menu-item-text"><?php echo translate('cat-banners-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="single-blog.html">
-                      <span class="menu-item-text">blog details</span>
+                    <a href="diseno-grafico.php">
+                      <span class="menu-item-text"><?php echo translate('cat-disenografico-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="interfaces-uxui.php">
+                      <span class="menu-item-text"><?php echo translate('cat-interfaceuxiu-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                 </ul>
               </li>
-              <li class="nav-item">
-                <a href="contact-us.html" class="nav-link-item">Contact Us</a>
+              <li class="nav-item nav-item-has-children">
+                <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-desarrollo-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
+                <ul class="sub-menu" id="submenu-1">
+                  <li class="sub-menu--item">
+                    <a href="landings-pages.php">
+                      <span class="menu-item-text"><?php echo translate('cat-landingpage-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="leads-pages.php">
+                      <span class="menu-item-text"><?php echo translate('cat-leadspage-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="wordpress.php">
+                      <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="desarrollo-web.php">
+                      <span class="menu-item-text"><?php echo translate('cat-desarrolloweb-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                </ul>
               </li>
+
+              <li class="nav-item nav-item-has-children">
+                <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-productos-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
+                <ul class="sub-menu" id="submenu-1">
+                  <li class="sub-menu--item">
+                    <a href="alojamiento-web.php">
+                      <span class="menu-item-text"><?php echo translate('cat-hosting-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="dominios.php">
+                      <span class="menu-item-text"><?php echo translate('cat-dominios-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                  <li class="sub-menu--item">
+                    <a href="kit-digital.php">
+                      <span class="menu-item-text"><?php echo translate('cat-kitdigital-title', $lang, $translations); ?></span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+
+
             </ul>
           </nav>
         </div>

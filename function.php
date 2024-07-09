@@ -1,4 +1,30 @@
 <?php
+function setTitleFromH1($htmlContent, $additionalText) {
+    $dom = new DOMDocument();
+    @$dom->loadHTML($htmlContent);
+    $h1Tags = $dom->getElementsByTagName('h1');
+    if ($h1Tags->length > 0) {
+        $h1Content = $h1Tags->item(0)->textContent;
+        $titleContent = $h1Content . ' | ' .$additionalText;
+        $titleTag = $dom->createElement('title', $titleContent);
+        $headTags = $dom->getElementsByTagName('head');
+        if ($headTags->length > 0) {
+            $head = $headTags->item(0);
+            $existingTitleTags = $dom->getElementsByTagName('title');
+            if ($existingTitleTags->length > 0) {
+                $existingTitle = $existingTitleTags->item(0);
+                $head->replaceChild($titleTag, $existingTitle);
+            } else {
+                $head->appendChild($titleTag);
+            }
+        }
+        return $dom->saveHTML();
+    } else {
+        return $htmlContent;
+    }
+}
+ob_start();
+
 function getBaseUrl() {
     $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
     $domainName = $_SERVER['HTTP_HOST'];

@@ -8,8 +8,11 @@
     <title>Agencia Rubik</title>
     <meta name="description" content="<?php echo translate('description_default', $lang, $translations); ?>">
     <link rel="shortcut icon" href="<?php echo $baseUrl; ?>/assets/images/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="<?php echo $baseUrl; ?>/assets/images/favicon.ico" type="image/x-icon">
-    <!--- End favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $baseUrl; ?>/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo $baseUrl; ?>/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo $baseUrl; ?>/assets/images/favicon-16x16.png">
+    <link rel="manifest" href="<?php echo $baseUrl; ?>/assets/images/site.webmanifest">
+<!--- End favicon-->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Raleway:wght@600;700&display=swap" rel="stylesheet">
     <!-- End google font  -->
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/bootstrap.min.css">
@@ -19,7 +22,7 @@
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/fontawesome.css">
     <!-- Code Editor  -->
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/main.css">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/app.min.css">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/css/app.css">
     <link rel="canonical" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>"/>
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />

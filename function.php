@@ -45,5 +45,4 @@ function translate($key, $lang, $translations) {
     return isset($translations[$langKey]) ? $translations[$langKey] : (isset($translations['en_' . $key]) ? $translations['en_' . $key] : 'Translation not found');
 }
 
-
 ?>

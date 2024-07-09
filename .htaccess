@@ -1,4 +1,3 @@
 RewriteEngine On
-
-# Redirigir todas las solicitudes a service.php
-RewriteRule ^(en|es)/service.php$ service.php [L,QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

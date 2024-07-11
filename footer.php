@@ -64,12 +64,12 @@
           <ul>
             <li>
               <a href="https://agenciarubik.com/es/">
-                <img src="https://agenciarubik.com/assets/images/icon/flag/ES.svg" alt="Español">
+                <img src="https://agenciarubik.com/assets/images/icon/flag-ES.svg" alt="Español">
               </a>
             </li>
             <li>
               <a href="https://agenciarubik.com/en/">
-              <img src="https://agenciarubik.com/assets/images/icon/flag/EN.svg" alt="English">
+              <img src="https://agenciarubik.com/assets/images/icon/flag-EN.svg" alt="English">
 
               </a>
             </li>

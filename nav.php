@@ -152,7 +152,7 @@
         </div>
 
         <div class="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-          <a class="agenciarubik-default-btn agenciarubik-header-btn" href="contact-us.html">
+          <a class="agenciarubik-default-btn agenciarubik-header-btn" href="#contact">
             <span><?php echo translate('btn-contact', $lang, $translations); ?></span>
           </a>
         </div>

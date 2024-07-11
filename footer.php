@@ -63,13 +63,13 @@
       <div class="agenciarubik-social-icon order-md-2">
           <ul>
             <li>
-              <a href="https://agenciarubik.com/es/" target="_blank">
-                <img src="<?php echo $baseUrl; ?>/assets/images/icon/flag/ES.svg" alt="Español">
+              <a href="https://agenciarubik.com/es/">
+                <img src="https://agenciarubik.com/assets/images/icon/flag/ES.svg" alt="Español">
               </a>
             </li>
             <li>
-              <a href="https://agenciarubik.com/en/" target="_blank">
-              <img src="<?php echo $baseUrl; ?>/assets/images/icon/flag/EN.svg" alt="English">
+              <a href="https://agenciarubik.com/en/">
+              <img src="https://agenciarubik.com/assets/images/icon/flag/EN.svg" alt="English">
 
               </a>
             </li>
@@ -88,17 +88,17 @@
 
 
 <!-- scripts -->
-<script src="<?php echo $baseUrl; ?>/assets/js/jquery-3.6.0.min.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/bootstrap.bundle.min.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/menu/menu.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/isotope.pkgd.min.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/jquery.magnific-popup.min.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/slick.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/countdown.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/wow.min.js"></script>
-<script src="<?php echo $baseUrl; ?>/assets/js/faq.js"></script>
+<script src="https://agenciarubik.com/assets/js/jquery-3.6.0.min.js"></script>
+<script src="https://agenciarubik.com/assets/js/bootstrap.bundle.min.js"></script>
+<script src="https://agenciarubik.com/assets/js/menu/menu.js"></script>
+<script src="https://agenciarubik.com/assets/js/isotope.pkgd.min.js"></script>
+<script src="https://agenciarubik.com/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="https://agenciarubik.com/assets/js/slick.js"></script>
+<script src="https://agenciarubik.com/assets/js/countdown.js"></script>
+<script src="https://agenciarubik.com/assets/js/wow.min.js"></script>
+<script src="https://agenciarubik.com/assets/js/faq.js"></script>
 
-<script src="<?php echo $baseUrl; ?>/assets/js/app.js"></script>
+<script src="https://agenciarubik.com/assets/js/app.js"></script>
 <?php
 $htmlContent = ob_get_clean();
 $additionalText = "Agencia Rubik";

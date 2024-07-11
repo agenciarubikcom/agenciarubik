@@ -4,7 +4,7 @@
         <!-- Brand Logo-->
         <div class="brand-logo">
           <a href="https://agenciarubik.com/">
-            <img src="<?php echo $baseUrl; ?>/assets/images/logo/logo-white.png" alt="" class="light-version-logo">
+            <img src="<?php echo $baseUrl; ?>/assets/images/logo/logo-white.svg" alt="" class="light-version-logo">
           </a>
         </div>
         <div class="menu-block-wrapper">

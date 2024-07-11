@@ -1,5 +1,13 @@
 <?php
 return [
+    /*Index*/
+    'es_index-title' => '¡Transformando Nuestra Web para Ti!',
+    'en_index-title' => 'Transforming Our Website for You!',
+    'es_index-description' => 'Estamos en pleno proceso de renovación de nuestro sitio web. Queremos brindarte una experiencia más rápida, moderna y amigable.<br><br>
+    Durante este tiempo, seguimos disponibles para cualquier consulta o asistencia que necesites. No dudes en contactarnos.',
+    'en_index-description' => 'We are in the process of renewing our website. We want to give you a faster, more modern and friendly experience.<br><br>
+    During this time, we remain available for any questions or assistance you may need. Do not hesitate to contact us.',
+
     /*Header*/
     'es_description_default' => $EsDescription,
     'en_description_default' => $EnDescription,

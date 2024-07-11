@@ -23,12 +23,9 @@
     <link rel="canonical" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>"/>
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
-
-
 </head>
 
 <body class="light">
-
     <div class="agenciarubik-preloader-wrap">
         <div class="agenciarubik-preloader">
             <div></div>
@@ -37,5 +34,4 @@
             <div></div>
         </div>
     </div>
-
 <?php include "nav.php" ?>

@@ -63,7 +63,7 @@
         </div>
       </div>
       <div class="agenciarubik-footer-bottom">
-        <div class="agenciarubik-social-icon order-md-2">
+        <!--<div class="agenciarubik-social-icon order-md-2">
           <ul>
             <li>
               <a href="https://twitter.com/" target="_blank">
@@ -91,7 +91,7 @@
               </a>
             </li>
           </ul>
-        </div>
+        </div>-->
         <div class="agenciarubik-copywright">
           <p> &copy;Copyright 2024, All Rights Reserved by Agencia Rubik</p>
         </div>

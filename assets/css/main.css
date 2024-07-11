@@ -14,8 +14,13 @@
 .responsive-logo {
     position: relative;
     max-width: 128px;
+
     margin-right: 35px;
     transition: all 0.4s;
+}
+
+.brand-logo .light-version-logo {
+  height: 40px;
 }
 @media (min-width: 576px) {
   .site-navbar {

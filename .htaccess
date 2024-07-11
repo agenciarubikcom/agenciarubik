@@ -5,9 +5,6 @@
     RewriteCond %{REQUEST_URI} ^/(es|en)/?$ [NC]
     RewriteRule ^(es|en)/?$ /%1/index [L,R=301]
 
-    # Redirección de /index a /inicio
-    RewriteRule ^index/?$ /inicio [L,R=301]
-
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f
     RewriteRule ^([^/]+)/?$ $1.php [L]

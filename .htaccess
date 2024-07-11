@@ -1,9 +1,13 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # Redirección interna de /es y /en a /es/index y /en/index respectivamente sin cambiar la URL
+    # Redirigir a detect_language.php si no se especifica un idioma
+    RewriteCond %{REQUEST_URI} !^/(en|es)/ [NC]
+    RewriteRule ^(.*)$ detect_language.php [L]
+
+    # Redirección interna de /es y /en a /es/index.php y /en/index.php sin cambiar la URL
     RewriteCond %{REQUEST_URI} ^/(es|en)/?$ [NC]
-    RewriteRule ^(es|en)/?$ /%1/index [L]
+    RewriteRule ^(es|en)/?$ /%1/index.php [L]
 
     # Redirección de /index a /inicio
     RewriteRule ^index/?$ /inicio [L,R=301]

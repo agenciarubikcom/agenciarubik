@@ -1,11 +1,10 @@
 <?php
+<?php
 function getBaseUrl() {
     $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
     $domainName = $_SERVER['HTTP_HOST'];
     return $protocol . $domainName;
 }
-
-$baseUrl = getBaseUrl();
 
 function getPreferredLanguage($availableLangs, $default = 'en') {
     // Detectar el idioma basado en la URL
@@ -34,6 +33,14 @@ function getPreferredLanguage($availableLangs, $default = 'en') {
 
 $availableLangs = ['en', 'es']; // Agrega aquí todos los idiomas disponibles
 $lang = getPreferredLanguage($availableLangs);
+
+// Redirigir si no se ha especificado un idioma en la URL
+$uri = $_SERVER['REQUEST_URI'];
+if (!preg_match('/^\/(en|es)\//', $uri)) {
+    $baseUrl = getBaseUrl();
+    header("Location: $baseUrl/$lang/");
+    exit();
+}
 
 $translations = include(__DIR__ . '/assets/translations.php');
 if (!is_array($translations)) {

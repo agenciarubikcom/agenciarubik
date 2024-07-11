@@ -67,7 +67,6 @@ return [
     'es_cat-hosting-title' => 'Alojamiento Web',
     'en_cat-hosting-title' => 'Web Hosting',
 
-
     /*Contact Form*/
     'es_form-name' => 'Nombre',
     'en_form-name' => 'Name',
@@ -79,6 +78,9 @@ return [
     'en_form-comment' => 'Write us your comment',
     'es_form-btn' => 'Enviar Mensaje',
     'en_form-btn' => 'Send Message',
-
+    'es_form-mensaje-exito' => 'Muy pronto nos estaremos comunicando contigo',
+    'en_form-mensaje-exito' => 'We will be contacting you very soon',
+    'es_form-mensaje-error' => 'Intentalo nuevamente por favor',
+    'en_form-mensaje-error' => 'Try again please',
 ];
 ?>

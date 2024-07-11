@@ -4,9 +4,6 @@
       <div class="row">
         <div class="col-xl-4 col-lg-12">
           <div class="agenciarubik-footer-textarea">
-            <a href="">
-              <img src="assets/images/logo/logo-dark.png" alt="">
-            </a>
             <p>We're your innovation partner, delivering cutting-edge solutions that elevate your business to the next level.</p>
             <div class="agenciarubik-subscribe-one">
               <form action="#">
@@ -63,35 +60,21 @@
       </div>
     </div>
     <div class="agenciarubik-footer-bottom">
-      <!--<div class="agenciarubik-social-icon order-md-2">
+      <div class="agenciarubik-social-icon order-md-2">
           <ul>
             <li>
-              <a href="https://twitter.com/" target="_blank">
-                <i class="fab fa-twitter"></i>
+              <a href="https://agenciarubik.com/es/" target="_blank">
+                <img src="<?php echo $baseUrl; ?>/assets/images/icon/flag/ES.svg" alt="Español">
               </a>
             </li>
             <li>
-              <a href="https://facebook.com/" target="_blank">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/" target="_blank">
-                <i class="fab fa-instagram"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.linkedin.com/" target="_blank">
-                <i class="fab fa-linkedin"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/" target="_blank">
-                <i class="fab fa-github"></i>
+              <a href="https://agenciarubik.com/en/" target="_blank">
+              <img src="<?php echo $baseUrl; ?>/assets/images/icon/flag/EN.svg" alt="English">
+
               </a>
             </li>
           </ul>
-        </div>-->
+        </div>
       <div class="agenciarubik-copywright">
         <p> &copy;Copyright 2024, All Rights Reserved by Agencia Rubik</p>
       </div>

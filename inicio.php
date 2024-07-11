@@ -1,5 +1,5 @@
 <?php
-$URLTitle = "index";
+$URLTitle = "inicio";
 $EsDescription = "Estamos en pleno proceso de renovación de nuestro sitio web. Queremos brindarte una experiencia más rápida, moderna y amigable.";
 $EnDescription = "We are in the process of renewing our website. We want to give you a faster, more modern and friendly experience.";
 include 'header.php';

@@ -4,7 +4,6 @@ $EsDescription = "Estamos en pleno proceso de renovación de nuestro sitio web. 
 $EnDescription = "We are in the process of renewing our website. We want to give you a faster, more modern and friendly experience.";
 include 'header.php';
 ?>
-
 <style>
     .site-menu-main, .agenciarubik-footer-top, .mobile-menu-trigger.light {
         display: none;

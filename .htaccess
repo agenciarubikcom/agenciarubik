@@ -1,9 +1,9 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # Redirección de /es y /en a /es/index y /en/index respectivamente
+    # Redirección interna de /es y /en a /es/index y /en/index respectivamente sin cambiar la URL
     RewriteCond %{REQUEST_URI} ^/(es|en)/?$ [NC]
-    RewriteRule ^(es|en)/?$ /%1/index [L,R=301]
+    RewriteRule ^(es|en)/?$ /%1/index [L]
 
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f

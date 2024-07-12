@@ -92,7 +92,7 @@ include 'header.php';
   <div class="row">
     <div class="col-lg-5">
       <div class="agenciarubik-v3-thumb">
-        <img src="assets/images/thumb-v3-2.png" alt="SEO">
+        <img src="https://agenciarubik.com/assets/images/thumb-v3-2.png" alt="SEO">
 
       </div>
     </div>

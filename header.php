@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/animate.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/main.css">
-    <link rel="stylesheet" href="https://agenciarubik.com/assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/app.css">
     <link rel="canonical" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>"/>
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />

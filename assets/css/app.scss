@@ -316,10 +316,9 @@
 
   h2, .h2 {
     line-height: 1.05em;
-
     /* 116.667% */
     letter-spacing: -0.1px;
-    font-size: 85px;
+    font-size: 60px;
   }
 
   @media (max-width: 1400px) {
@@ -6235,6 +6234,11 @@
       }
     }
 
+    &.sticky {
+      position: sticky;
+      top: 100px;
+    }
+
     &.m-left {
       margin-left: 70px;
     }
@@ -6537,7 +6541,7 @@
 
   .agenciarubik-form-wrap {
     padding: 40px;
-    border: 1px solid var(--heading-color);
+    border: 1px solid #eee;
     border-radius: 10px;
     background-color: var(--light-bg);
 

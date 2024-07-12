@@ -92,10 +92,8 @@ include 'header.php';
   <div class="row">
     <div class="col-lg-5">
       <div class="agenciarubik-v3-thumb">
-        <img src="assets/images/v3/thumb-v3-2.png" alt="">
-        <div class="agenciarubik-v3-card">
-          <img src="assets/images/v3/card-v3-4.png" alt="">
-        </div>
+        <img src="assets/images/thumb-v3-2.png" alt="SEO">
+
       </div>
     </div>
     <div class="col-lg-7">

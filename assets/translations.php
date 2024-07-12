@@ -11,6 +11,7 @@ return [
     /*Header*/
     "es_description_default" => $EsDescription,
     "en_description_default" => $EnDescription,
+
     /*Menú*/
     "es_btn-contact" => "Contáctanos ahora",
     "en_btn-contact" => "Contact us now",

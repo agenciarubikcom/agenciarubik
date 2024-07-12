@@ -83,10 +83,6 @@
   </div>
 </footer>
 
-
-
-
-
 <!-- scripts -->
 <script src="https://agenciarubik.com/assets/js/jquery-3.6.0.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/bootstrap.bundle.min.js"></script>
@@ -101,7 +97,7 @@
 <?php
 $htmlContent = ob_get_clean();
 $additionalText = "Agencia Rubik";
-$updatedHtml = setTitleFromH1($htmlContent, $additionalText, );
+$updatedHtml = setTitleFromH1AndBreadcrumb($htmlContent, $additionalText);
 echo $updatedHtml;
 ?>
 <!-- Google tag (gtag.js) -->

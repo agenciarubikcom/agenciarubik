@@ -51,13 +51,38 @@ function translate($key, $lang, $translations) {
     return isset($translations[$langKey]) ? $translations[$langKey] : (isset($translations['en_' . $key]) ? $translations['en_' . $key] : 'Translation not found');
 }
 
-function setTitleFromH1($htmlContent, $additionalText) {
+function setTitleFromH1AndBreadcrumb($htmlContent, $additionalText) {
     $dom = new DOMDocument();
     @$dom->loadHTML($htmlContent);
+
+    $titleContent = '';
+
+    // Capturar contenido del <h1>
     $h1Tags = $dom->getElementsByTagName('h1');
     if ($h1Tags->length > 0) {
         $h1Content = $h1Tags->item(0)->textContent;
-        $titleContent = $h1Content . ' | ' .$additionalText;
+        $titleContent = $h1Content;
+    }
+
+    // Capturar contenido del <li aria-current="page">
+    $xpath = new DOMXPath($dom);
+    $breadcrumbNode = $xpath->query("//li[@aria-current='page']");
+    if ($breadcrumbNode->length > 0) {
+        $breadcrumbContent = $breadcrumbNode->item(0)->textContent;
+        if (!empty($titleContent)) {
+            $titleContent .= ' | ' . $breadcrumbContent;
+        } else {
+            $titleContent = $breadcrumbContent;
+        }
+    }
+
+    // Añadir texto adicional
+    if (!empty($titleContent)) {
+        $titleContent .= ' | ' . $additionalText;
+    }
+
+    // Crear y/o actualizar el <title>
+    if (!empty($titleContent)) {
         $titleTag = $dom->createElement('title', $titleContent);
         $headTags = $dom->getElementsByTagName('head');
         if ($headTags->length > 0) {
@@ -70,10 +95,9 @@ function setTitleFromH1($htmlContent, $additionalText) {
                 $head->appendChild($titleTag);
             }
         }
-        return $dom->saveHTML();
-    } else {
-        return $htmlContent;
     }
+
+    return $dom->saveHTML();
 }
 ob_start();
 ?>

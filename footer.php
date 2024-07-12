@@ -102,7 +102,7 @@
 <?php
 $htmlContent = ob_get_clean();
 $additionalText = "Agencia Rubik";
-$updatedHtml = setTitleFromH1($htmlContent, $additionalText);
+$updatedHtml = setTitleFromH1($htmlContent, $URLTitle, $additionalText);
 echo $updatedHtml;
 ?>
 <!-- Google tag (gtag.js) -->

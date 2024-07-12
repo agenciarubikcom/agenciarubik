@@ -1,7 +1,7 @@
 <?php
 $URLTitle = "seo";
-$EsDescription = "Nos encargamos de llevar tu proyecto web adelante con el mejor soporte";
-$EnDescription = "We take care of taking your web project forward with the best support";
+$EsDescription = "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO";
+$EnDescription = "Elevate Your Online Presence with Our SEO Service";
 include 'header.php';
 ?>
 

@@ -97,12 +97,11 @@
 <script src="https://agenciarubik.com/assets/js/countdown.js"></script>
 <script src="https://agenciarubik.com/assets/js/wow.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/faq.js"></script>
-
 <script src="https://agenciarubik.com/assets/js/app.js"></script>
 <?php
 $htmlContent = ob_get_clean();
 $additionalText = "Agencia Rubik";
-$updatedHtml = setTitleFromH1($htmlContent, $URLTitle, $additionalText);
+$updatedHtml = setTitleFromH1($htmlContent, $additionalText, );
 echo $updatedHtml;
 ?>
 <!-- Google tag (gtag.js) -->

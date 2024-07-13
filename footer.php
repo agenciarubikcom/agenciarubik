@@ -2,51 +2,33 @@
   <div class="container">
     <div class="agenciarubik-footer-top">
       <div class="row">
-        <div class="col-xl-4 col-lg-12">
+        <div class="col-xl-7 col-lg-12">
+        <div class="agenciarubik-footer-title">
+            <p><?php echo translate('footer-title', $lang, $translations); ?></p>
+            </div>
           <div class="agenciarubik-footer-textarea">
-            <p>We're your innovation partner, delivering cutting-edge solutions that elevate your business to the next level.</p>
-            <div class="agenciarubik-subscribe-one">
-              <form action="#">
-                <input type="email" placeholder="Email Address">
-                <button class="agenciarubik-default-btn agenciarubik-subscription-btn one" id="agenciarubik-subscription-btn" type="submit">
-                  <span>Subscribe</span>
-                </button>
-              </form>
-            </div>
+            <p><?php echo translate('hitext', $lang, $translations); ?></p>
           </div>
         </div>
-        <div class="col-xl-3 col-md-4">
-          <div class="agenciarubik-footer-menu extar-margin">
-            <div class="agenciarubik-footer-title">
-              <p>Navigation</p>
-            </div>
-            <ul>
-              <li><a href="">Demos</a></li>
-              <li><a href="">About Us</a></li>
-              <li><a href="">Services</a></li>
-              <li><a href="">Pages</a></li>
-              <li><a href="">Contact</a></li>
-            </ul>
-          </div>
-        </div>
+
         <div class="col-xl-2 col-md-4">
           <div class="agenciarubik-footer-menu">
             <div class="agenciarubik-footer-title">
-              <p>Utility pages</p>
+              <p><?php echo translate('footer-title1', $lang, $translations); ?></p>
             </div>
             <ul>
-              <li><a href="">Instructions</a></li>
-              <li><a href="">Style guide</a></li>
-              <li><a href="">Licenses</a></li>
-              <li><a href="">404 Not found</a></li>
-              <li><a href="">Password protected</a></li>
+              <li><a href=""><?php echo translate('cat-marketingdigital-title', $lang, $translations); ?></a></li>
+              <li><a href=""><?php echo translate('cat-soporte-title', $lang, $translations); ?></a></li>
+              <li><a href=""><?php echo translate('cat-diseno-title', $lang, $translations); ?></a></li>
+              <li><a href=""><?php echo translate('cat-desarrollo-title', $lang, $translations); ?></a></li>
+              <li><a href=""><?php echo translate('cat-productos-title', $lang, $translations); ?></a></li>
             </ul>
           </div>
         </div>
         <div class="col-xl-3 col-md-4">
           <div class="agenciarubik-footer-menu extar-margin">
             <div class="agenciarubik-footer-title">
-              <p>Resources</p>
+            <p><?php echo translate('footer-title2', $lang, $translations); ?></p>
             </div>
             <ul>
               <li><a href="">Support</a></li>
@@ -61,20 +43,20 @@
     </div>
     <div class="agenciarubik-footer-bottom">
       <div class="agenciarubik-social-icon order-md-2">
-          <ul>
-            <li>
-              <a href="https://agenciarubik.com/es/">
-                <img src="https://agenciarubik.com/assets/images/icon/flag-ES.png" width="20px" alt="Español">
-              </a>
-            </li>
-            <li>
-              <a href="https://agenciarubik.com/en/">
+        <ul>
+          <li>
+            <a href="https://agenciarubik.com/es/">
+              <img src="https://agenciarubik.com/assets/images/icon/flag-ES.png" width="20px" alt="Español">
+            </a>
+          </li>
+          <li>
+            <a href="https://agenciarubik.com/en/">
               <img src="https://agenciarubik.com/assets/images/icon/flag-EN.png" width="20px" alt="English">
 
-              </a>
-            </li>
-          </ul>
-        </div>
+            </a>
+          </li>
+        </ul>
+      </div>
       <div class="agenciarubik-copywright">
         <p> &copy;Copyright 2024, All Rights Reserved by Agencia Rubik</p>
       </div>

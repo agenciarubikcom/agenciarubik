@@ -92,9 +92,20 @@ return [
     "es_form-mensaje-error" => "Intentalo nuevamente por favor",
     "en_form-mensaje-error" => "Try again please",
 
+    /*Footer*/
+    "es_hitext" => "Somos una agencia de soluciones web con más de 10 años en el mercado, ubicada en Montevideo, Uruguay🧉, y nos dedicamos a brindar servicios a clientes de todo el mundo. Nos enorgullece crear experiencias digitales únicas y efectivas, reflejando la pasión y el compromiso que ponemos en cada detalle de nuestro trabajo.",
+    "en_hitext" => "We are a web solutions agency with more than 10 years in the market, located in Montevideo, Uruguay🧉, and we are dedicated to providing services to clients from all over the world. We take pride in creating unique and effective digital experiences, reflecting the passion and commitment we put into every detail of our work.
+    ",
+    "es_footer-title" => "Quiénes somos",
+    "en_footer-title" => "About us",
+    "es_footer-title1" => "Qué hacemos",
+    "en_footer-title1" => "What do we do",
+    "es_footer-title2" => "Cómo lo hacemos",
+    "en_footer-title2" => "How do we do it",
+
     /*Marketing Digital - SEO*/
-    "es_marketingdigital-seo-title" => "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO",
-    "en_marketingdigital-seo-title" => "Elevate Your Online Presence with Our SEO Service",
+    "es_marketingdigital-seo-title" => "Eleva tu presencia en Línea con nuestro servicio de SEO",
+    "en_marketingdigital-seo-title" => "Elevate your online presence with our SEO Service",
     "es_marketingdigital-seo-textline" => "En el vasto mundo digital de hoy, tener un sitio web es solo el primer paso.",
     "en_marketingdigital-seo-textline" => "In today's vast digital world, having a website is just the first step.",
     "es_marketingdigital-seo-textline2" => "La clave para destacar entre millones de sitios",
@@ -136,8 +147,8 @@ return [
     "es_marketingdigital-seo-item6info" => "La velocidad de carga del sitio web y la experiencia del usuario son factores críticos para el SEO. Trabajamos para optimizar estos aspectos, asegurando que tu sitio web sea rápido, responsive y fácil de navegar en cualquier dispositivo.",
     "en_marketingdigital-seo-item6info" => "Website loading speed and user experience are critical factors for SEO. We work to optimize these aspects, ensuring that your website is fast, responsive and easy to navigate on any device.",
 
-    "es_marketingdigital-seo-item7" => "Transforma Tu Sitio Web en un Imán de Tráfico",
-    "en_marketingdigital-seo-item7" => "Transform Your Website into a Traffic Magnet",
+    "es_marketingdigital-seo-item7" => "Transforma tu sitio web en un imán de tráfico",
+    "en_marketingdigital-seo-item7" => "Transform your website into a traffic magnet",
     "es_marketingdigital-seo-item7info" => "Con nuestro servicio de SEO para páginas web, te ayudamos a superar a la competencia, aumentar tu visibilidad en línea y atraer a más clientes potenciales. No importa el tamaño de tu negocio o la industria en la que operes, una estrategia de SEO efectiva es fundamental para tu éxito en línea.<br><br><b>Contáctanos hoy y comienza el viaje para maximizar tu presencia en línea y llevar tu negocio al próximo nivel.</b>
     ",
     "en_marketingdigital-seo-item7info" => "With our website SEO service, we help you outperform the competition, increase your online visibility and attract more potential customers. No matter the size of your business or the industry you operate in, an effective SEO strategy is critical to your online success.<br><br><b>Contact us today and start the journey to maximize your online presence and run your business to the next level.</b>",

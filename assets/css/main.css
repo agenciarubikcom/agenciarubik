@@ -20,6 +20,7 @@
 }
 
 .brand-logo .light-version-logo {
+  width: 50px;
   height: 40px;
 }
 @media (min-width: 576px) {

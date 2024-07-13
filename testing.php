@@ -20,7 +20,7 @@ include 'header.php';
 
 
 
-<div class="section agenciarubik-section-padding">
+<div class="section agenciarubik-section-padding2">
 <div class="container">
   <div class="row align-items-center">
   <div class="col-lg-6">

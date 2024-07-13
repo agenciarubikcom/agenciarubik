@@ -32,7 +32,7 @@ include 'header.php';
     </div>
     <div class="col-lg-6">
       <div class="agenciarubik-v3-thumb">
-        <img src="assets/images/testing.svg" alt="Testing">
+        <img src="https://agenciarubik.com/assets/images/testing.svg" alt="Testing">
       </div>
     </div>
 

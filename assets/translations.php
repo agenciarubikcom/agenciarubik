@@ -93,8 +93,8 @@ return [
     "en_form-mensaje-error" => "Try again please",
 
     /*Footer*/
-    "es_hitext" => "Somos una agencia de soluciones web con más de 10 años en el mercado, ubicada en Montevideo, Uruguay🧉, y nos dedicamos a brindar servicios a clientes de todo el mundo. Nos enorgullece crear experiencias digitales únicas y efectivas, reflejando la pasión y el compromiso que ponemos en cada detalle de nuestro trabajo.",
-    "en_hitext" => "We are a web solutions agency with more than 10 years in the market, located in Montevideo, Uruguay🧉, and we are dedicated to providing services to clients from all over the world. We take pride in creating unique and effective digital experiences, reflecting the passion and commitment we put into every detail of our work.
+    "es_hitext" => "Somos una agencia de soluciones web con más de 10 años en el mercado ubicada en Montevideo, Uruguay🧉. Nos dedicamos a brindar servicios a clientes de todo el mundo. Nos enorgullece crear experiencias digitales únicas y efectivas, reflejando la pasión y el compromiso que ponemos en cada detalle de nuestro trabajo.",
+    "en_hitext" => "We are a web solutions agency with more than 10 years in the market located in Montevideo, Uruguay🧉. We are dedicated to providing services to clients from all over the world. We take pride in creating unique and effective digital experiences, reflecting the passion and commitment we put into every detail of our work.
     ",
     "es_footer-title" => "Quiénes somos",
     "en_footer-title" => "About us",
@@ -152,5 +152,47 @@ return [
     "es_marketingdigital-seo-item7info" => "Con nuestro servicio de SEO para páginas web, te ayudamos a superar a la competencia, aumentar tu visibilidad en línea y atraer a más clientes potenciales. No importa el tamaño de tu negocio o la industria en la que operes, una estrategia de SEO efectiva es fundamental para tu éxito en línea.<br><br><b>Contáctanos hoy y comienza el viaje para maximizar tu presencia en línea y llevar tu negocio al próximo nivel.</b>
     ",
     "en_marketingdigital-seo-item7info" => "With our website SEO service, we help you outperform the competition, increase your online visibility and attract more potential customers. No matter the size of your business or the industry you operate in, an effective SEO strategy is critical to your online success.<br><br><b>Contact us today and start the journey to maximize your online presence and run your business to the next level.</b>",
+
+
+    /*Soporte - Testing*/
+    "es_soporte-testing-title" => "Análisis y diseño de pruebas",
+    "en_soporte-testing-title" => "Analysis and test design",
+    "es_soporte-testing-textline" => "Transforma tu visión en experiencias impecables",
+    "en_soporte-testing-textline" => "Transform your vision into flawless experiences",
+    "es_soporte-testing-textline2" => "Nuestro compromiso inicia desde el primer pixel, entendiendo tu visión y transformándola en una estrategia de testing a medida. En este paso esencial, nos sumergimos en el corazón de tu proyecto, asegurando que cada funcionalidad refleja tu promesa de marca y supera las expectativas de tus usuarios.",
+    "en_soporte-testing-textline2" => "Our commitment starts from the first pixel, understanding your vision and transforming it into a tailored testing strategy. In this essential step, we dive into the heart of your project, ensuring that each feature reflects your brand promise and exceeds your users' expectations.",
+    "es_soporte-testing-textline3" => "¿Cómo lo hacemos?",
+    "en_soporte-testing-textline3" => "How do we do it?",
+
+    "es_soporte-testing-item1" => "Inmersión profunda en tu proyecto",
+    "en_soporte-testing-item1" => "Deep dive into your project",
+    "es_soporte-testing-item1info" => "Comenzamos con una revisión exhaustiva de tus objetivos, convirtiéndolos en documentación y requisitos.",
+    "en_soporte-testing-item1info" => "We start with a thorough review of your objectives, turning them into documentation and requirements.",
+
+    "es_soporte-testing-item2" => "Mapa de funcionalidades críticas",
+    "en_soporte-testing-item2" => "Critical functionalities map",
+    "es_soporte-testing-item2info" => "Delineamos cada funcionalidad, priorizando aquellas que son críticas para el éxito de tu proyecto. Este mapa es el norte que guiará cada caso de prueba, asegurando un enfoque personalizado y centrado.",
+    "en_soporte-testing-item2info" => "We outline each functionality, prioritizing those that are critical to the success of your project. This map is the north that will guide each test case, ensuring a personalized and focused approach.",
+
+    "es_soporte-testing-item3" => "Plan de pruebas a medida",
+    "en_soporte-testing-item3" => "Customized test plan",
+    "es_soporte-testing-item3info" => "El resultado es un plan de pruebas meticulosamente diseñado, un guión que nuestros testers seguirán con dedicación. Este plan no solo asegura una cobertura total de tus necesidades sino que también se adapta a la evolución de tu proyecto, garantizando flexibilidad y adaptabilidad.",
+    "en_soporte-testing-item3info" => "The result is a meticulously designed test plan, a script that our testers will follow with dedication. This plan not only ensures full coverage of your needs but also adapts to the evolution of your project, guaranteeing flexibility and adaptability.",
+
+    "es_soporte-testing-item4" => "Plan de pruebas adaptativo y heurístico",
+    "en_soporte-testing-item4" => "Adaptive and heuristic test plan",
+    "es_soporte-testing-item4info" => "Desarrollamos un plan de pruebas que incorpora heurísticas para la selección y priorización de casos de prueba, ofreciendo un enfoque flexible y dinámico.",
+    "en_soporte-testing-item4info" => "We develop a test plan that incorporates heuristics for the selection and prioritization of test cases, offering a flexible and dynamic approach.",
+
+    "es_soporte-testing-item5" => "Incorporando heurísticas en nuestro proceso",
+    "en_soporte-testing-item5" => "Incorporating heuristics into our process",
+    "es_soporte-testing-item5info" => "No sólo abordamos los aspectos técnicos y funcionales de tu proyecto, sino que también mejoramos la usabilidad y la experiencia del usuario final.",
+    "en_soporte-testing-item5info" => "We not only address the technical and functional aspects of your project, but we also improve the usability and end-user experience.",
+
+    "es_soporte-testing-item6" => "Una alianza estratégica",
+    "en_soporte-testing-item6" => "A strategic alliance",
+    "es_soporte-testing-item6info" => "Más que un servicio, te ofrecemos una alianza. Nuestros expertos se convierten en parte de tu equipo, trabajando mano a mano contigo para asegurar que tu visión se materialice en una experiencia sin fallos.",
+    "en_soporte-testing-item6info" => "More than a service, we offer you an alliance. Our experts become part of your team, working hand in hand with you to ensure that your vision is realized in a flawless experience.",
+
 ];
 ?>

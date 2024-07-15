@@ -5601,9 +5601,6 @@ a.agenciarubik-connect-login img {
   position: relative;
   margin-right: 27px;
 }
-.agenciarubik-v3-thumb img {
-  border-radius: 20px;
-}
 
 @media (max-width: 991px) {
   .agenciarubik-v3-thumb {

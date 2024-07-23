@@ -46,12 +46,12 @@
         <ul>
           <li>
             <a href="https://agenciarubik.com/es/">
-              <img src="https://agenciarubik.com/assets/images/icon/flag-ES.png" width="20px" alt="Español">
+              <img src="https://agenciarubik.com/assets/images/icon/flag-ES.png" width="20px" title="Español" alt="Español">
             </a>
           </li>
           <li>
             <a href="https://agenciarubik.com/en/">
-              <img src="https://agenciarubik.com/assets/images/icon/flag-EN.png" width="20px" alt="English">
+              <img src="https://agenciarubik.com/assets/images/icon/flag-EN.png" width="20px" title="English" alt="English">
 
             </a>
           </li>

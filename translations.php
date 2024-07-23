@@ -8,10 +8,6 @@ return [
     "en_index-description" => "We are in the process of renewing our website. We want to give you a faster, more modern and friendly experience.<br><br>
     During this time, we remain available for any questions or assistance you may need. Do not hesitate to contact us.",
 
-    /*Header*/
-    "es_description_default" => $EsDescription,
-    "en_description_default" => $EnDescription,
-
     /*Menú*/
     "es_btn-contact" => "Contáctanos ahora",
     "en_btn-contact" => "Contact us now",
@@ -121,11 +117,6 @@ return [
     "en_marketingdigital-seo-item2" => "Advanced Keyword Research",
     "es_marketingdigital-seo-item2info" => "Utilizamos herramientas de investigación de última generación para identificar las palabras clave más relevantes y con mayor potencial para tu negocio. Esto nos permite optimizar tu contenido, metadatos y URLs, asegurando que tu sitio web atraiga a visitantes altamente interesados en tus productos o servicios.",
     "en_marketingdigital-seo-item2info" => "We use cutting-edge research tools to identify the most relevant keywords with the greatest potential for your business. This allows us to optimize your content, metadata and URLs, ensuring that your website attracts visitors highly interested in your products or services.",
-
-    "es_marketingdigital-seo-item3" => "Optimización On-Page",
-    "en_marketingdigital-seo-item3" => "On-Page Optimization",
-    "es_marketingdigital-seo-item3info" => "Mejoramos todos los aspectos internos de tu sitio web, incluyendo títulos, meta descripciones, estructura de URLs, imágenes y la calidad del contenido. Nuestro objetivo es no solo mejorar tu ranking en los resultados de búsqueda sino también ofrecer una experiencia de usuario excepcional que fomente la permanencia en el sitio y la conversión.",
-    "en_marketingdigital-seo-item3info" => "We improve all the internal aspects of your website, including titles, meta descriptions, URL structure, images and content quality. Our goal is to not only improve your ranking in search results but also provide an exceptional user experience that encourages stay and conversion.",
 
     "es_marketingdigital-seo-item3" => "Optimización On-Page",
     "en_marketingdigital-seo-item3" => "On-Page Optimization",

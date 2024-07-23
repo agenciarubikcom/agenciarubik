@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agencia Rubik</title>
-    <meta name="description" content="<?php echo translate('description_default', $lang, $translations); ?>">
+    <meta name="description" content="<?php echo isset($Description) ? $Description : 'Estamos en pleno proceso de renovación de nuestro sitio web. Queremos brindarte una experiencia más rápida, moderna y amigable.<br><br>
+    Durante este tiempo, seguimos disponibles para cualquier consulta o asistencia que necesites. No dudes en contactarnos.'; ?>">
     <link rel="shortcut icon" href="https://agenciarubik.com/assets/images/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" sizes="180x180" href="https://agenciarubik.com/assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://agenciarubik.com/assets/images/favicon-32x32.png">
@@ -20,18 +21,5 @@
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/main.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/app.css">
-    <link rel="canonical" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>"/>
-    <link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
-    <link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/<?php echo isset($URLTitle) ? $URLTitle : 'Agencia Rubik'; ?>" />
-</head>
-
-<body class="light">
-    <div class="agenciarubik-preloader-wrap">
-        <div class="agenciarubik-preloader">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-        </div>
-    </div>
-<?php include "nav.php" ?>
+    <link rel="alternate" hreflang="es" href="https://agenciarubik.com/<?php echo isset($URLTitleES) ? $URLTitleES : 'Agencia Rubik'; ?>" />
+    <link rel="alternate" hreflang="en" href="https://agenciarubik.com/<?php echo isset($URLTitleEN) ? $URLTitleEN : 'Agencia Rubik'; ?>" />

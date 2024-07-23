@@ -41,7 +41,7 @@ if (!preg_match('/^\/(en|es)\//', $uri)) {
     exit();
 }
 
-$translations = include(__DIR__ . '/assets/translations.php');
+$translations = include(__DIR__ . '/translations.php');
 if (!is_array($translations)) {
     die('Error: Archivo de traducción no válido.');
 }

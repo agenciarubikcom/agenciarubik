@@ -2,4 +2,15 @@
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Detectar el idioma del navegador
+RewriteCond %{HTTP:Accept-Language} ^es [NC]
+RewriteRule ^$ /es/index [L,R=302]
+
+RewriteCond %{HTTP:Accept-Language} ^en [NC]
+RewriteRule ^$ /en/index [L,R=302]
+
+# Redirigir a la versión en inglés por defecto si no se detecta español o inglés
+RewriteRule ^$ /en/index [L,R=302]
+
 </IfModule>

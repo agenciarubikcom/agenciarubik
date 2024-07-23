@@ -1,11 +1,12 @@
 <?php
 $URLTitleES = "es/email-marketing";
 $URLTitleEN = "en/email-marketing";
+$URLLink = "es/email-marketing";
 $Description = "Optimiza tu email marketing. Construye relaciones duraderas y convierte clientes en ventas efectivas.";
 include '../header.php';
+include 'nav.php';
 ?>
-    <link rel="canonical" href="https://agenciarubik.com/es/email-marketing"/>
-<?php include '../headersecond.php';?>
+
 
 <div class="agenciarubik-breadcrumb">
   <div class="container">
@@ -19,22 +20,22 @@ include '../header.php';
 </div>
 
 <div class="section agenciarubik-section-padding2">
-<div class="container">
-  <div class="row align-items-center">
-  <div class="col-lg-6">
-      <div class="agenciarubik-default-content m-left">
-      <h2 class="rt-mb-20">Maximiza Tu Impacto con Email Marketing</h2>
-      <p>En la era digital, el correo electrónico sigue siendo una de las formas más directas y personales de comunicación con tus clientes. Nuestro servicio de Email Marketing está diseñado para ayudarte a construir relaciones duraderas con tu audiencia y convertir esos vínculos en ventas. Aquí te explicamos cómo hacemos realidad tu éxito.</p>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="agenciarubik-default-content m-left">
+          <h2 class="rt-mb-20">Maximiza Tu Impacto con Email Marketing</h2>
+          <p>En la era digital, el correo electrónico sigue siendo una de las formas más directas y personales de comunicación con tus clientes. Nuestro servicio de Email Marketing está diseñado para ayudarte a construir relaciones duraderas con tu audiencia y convertir esos vínculos en ventas. Aquí te explicamos cómo hacemos realidad tu éxito.</p>
+        </div>
       </div>
-    </div>
-    <div class="col-lg-6">
-      <div class="agenciarubik-v3-thumb p-5">
-        <img src="https://agenciarubik.com/assets/images/email-marketing.svg" title="Email Marketing" alt="Email Marketing">
+      <div class="col-lg-6">
+        <div class="agenciarubik-v3-thumb p-5">
+          <img src="https://agenciarubik.com/assets/images/email-marketing.svg" title="Email Marketing" alt="Email Marketing">
+        </div>
       </div>
-    </div>
 
+    </div>
   </div>
-</div>
 </div>
 <div class="section agenciarubik-section-padding2">
   <div class="container">
@@ -72,14 +73,14 @@ include '../header.php';
 </div>
 
 <div class="container pt-5">
-      <div class="agenciarubik-section-title center">
-        <h2>Transforma Tu Estrategia de Email Marketing Hoy</h2>
-        <p class="mt-5">Con nuestro servicio de Email Marketing, tienes la garantía de no solo alcanzar a tu audiencia, sino de impactar de manera significativa, fomentando la conversión y fidelización. Ya sea que estés lanzando un nuevo producto, fomentando la lealtad del cliente o buscando aumentar tus ventas, estamos aquí para ayudarte a lograr tus objetivos de marketing con estrategias que entregan resultados.<br><br>Contacta con nosotros para comenzar a crear campañas que dejan huella y conducen al éxito de tu negocio.
-        </p>
-      </div>
-    </div>
+  <div class="agenciarubik-section-title center">
+    <h2>Transforma Tu Estrategia de Email Marketing Hoy</h2>
+    <p class="mt-5">Con nuestro servicio de Email Marketing, tienes la garantía de no solo alcanzar a tu audiencia, sino de impactar de manera significativa, fomentando la conversión y fidelización. Ya sea que estés lanzando un nuevo producto, fomentando la lealtad del cliente o buscando aumentar tus ventas, estamos aquí para ayudarte a lograr tus objetivos de marketing con estrategias que entregan resultados.<br><br>Contacta con nosotros para comenzar a crear campañas que dejan huella y conducen al éxito de tu negocio.
+    </p>
+  </div>
+</div>
 
-<div class="section agenciarubik-section-padding5">
+<div class="section my-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">

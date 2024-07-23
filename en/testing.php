@@ -1,12 +1,11 @@
 <?php
 $URLTitleES = "es/testing";
 $URLTitleEN = "en/testing";
+$URLLink = "en/testing";
 $Description = "Analysis and design of tests that transform your vision into impeccable experiences";
 include '../header.php';
+include 'nav.php';
 ?>
-
-    <link rel="canonical" href="https://agenciarubik.com/en/testing"/>
-<?php include '../headersecond.php';?>
 
 <div class="agenciarubik-breadcrumb">
   <div class="container">
@@ -77,7 +76,7 @@ include '../header.php';
 </div>
 
 
-<div class="section agenciarubik-section-padding5">
+<div class="section my-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">

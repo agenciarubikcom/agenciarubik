@@ -23,3 +23,15 @@
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/app.css">
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/<?php echo isset($URLTitleES) ? $URLTitleES : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/<?php echo isset($URLTitleEN) ? $URLTitleEN : 'Agencia Rubik'; ?>" />
+    <link rel="canonical" href="https://agenciarubik.com/<?php echo isset($URLLink) ? $URLLink : 'https://agenciarubik.com/'; ?>"/>
+    </head>
+
+<body class="light">
+    <div class="agenciarubik-preloader-wrap">
+        <div class="agenciarubik-preloader">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>

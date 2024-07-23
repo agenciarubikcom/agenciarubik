@@ -1,9 +1,9 @@
-  <header class="site-header site-header--menu-center agenciarubik-header-section dark-bg white-menu" id="sticky-menu">
+<header class="site-header site-header--menu-center agenciarubik-header-section dark-bg white-menu" id="sticky-menu">
     <div class="container">
       <nav class="navbar site-navbar">
         <!-- Brand Logo-->
         <div class="brand-logo">
-          <a href="https://agenciarubik.com/">
+          <a href="https://agenciarubik.com/en/index">
             <img src="https://agenciarubik.com/assets/images/logo/logo-white.svg" title="Agencia Rubik" alt="Agencia Rubik" class="light-version-logo">
           </a>
         </div>
@@ -22,7 +22,7 @@
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-marketingdigital-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="email-marketing">
+                    <a href="email-marketing.php">
                       <span class="menu-item-text"><?php echo translate('cat-emailmarketing-title', $lang, $translations); ?></span>
                     </a>
                   </li>
@@ -32,7 +32,7 @@
                     </a>
                   </li>-->
                   <li class="sub-menu--item">
-                    <a href="seo">
+                    <a href="seo.php">
                       <span class="menu-item-text"><?php echo translate('cat-seo-title', $lang, $translations); ?></span>
                     </a>
                   </li>
@@ -43,27 +43,27 @@
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-soporte-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                 <li class="sub-menu--item">
-                    <a href="soporte-wordpress">
+                    <a href="wordpress-support.php">
                       <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="servidores-aws">
+                    <a href="servers-aws.php">
                       <span class="menu-item-text"><?php echo translate('cat-servidoresaws-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="soporte-uxui">
+                    <a href="uxui-support.php">
                       <span class="menu-item-text"><?php echo translate('cat-uxui-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="auditoria-web">
+                    <a href="web-audit.php">
                       <span class="menu-item-text"><?php echo translate('cat-auditoriaweb-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="testing">
+                    <a href="testing.php">
                       <span class="menu-item-text"><?php echo translate('cat-testing-title', $lang, $translations); ?></span>
                     </a>
                   </li>
@@ -73,27 +73,27 @@
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-diseno-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="re-branding">
+                    <a href="re-branding.php">
                       <span class="menu-item-text"><?php echo translate('cat-rebranding-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="manual-de-marca">
+                    <a href="brand-manual.php">
                       <span class="menu-item-text"><?php echo translate('cat-manualdemarca-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="banners">
+                    <a href="banners.php">
                       <span class="menu-item-text"><?php echo translate('cat-banners-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="diseno-grafico">
+                    <a href="graphic-design.php">
                       <span class="menu-item-text"><?php echo translate('cat-disenografico-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="interfaces-uxui">
+                    <a href="interfaces-uxui.php">
                       <span class="menu-item-text"><?php echo translate('cat-interfaceuxiu-title', $lang, $translations); ?></span>
                     </a>
                   </li>
@@ -103,22 +103,22 @@
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-desarrollo-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="landings-pages">
+                    <a href="landings-pages.php">
                       <span class="menu-item-text"><?php echo translate('cat-landingpage-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="leads-pages">
+                    <a href="leads-pages.php">
                       <span class="menu-item-text"><?php echo translate('cat-leadspage-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="wordpress">
+                    <a href="wordpress.php">
                       <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="desarrollo-web">
+                    <a href="web-developer.php">
                       <span class="menu-item-text"><?php echo translate('cat-desarrolloweb-title', $lang, $translations); ?></span>
                     </a>
                   </li>
@@ -129,17 +129,17 @@
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-productos-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                   <li class="sub-menu--item">
-                    <a href="alojamiento-web">
+                    <a href="web-hosting.php">
                       <span class="menu-item-text"><?php echo translate('cat-hosting-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="dominios">
+                    <a href="domains.php">
                       <span class="menu-item-text"><?php echo translate('cat-dominios-title', $lang, $translations); ?></span>
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="kit-digital">
+                    <a href="digital-kit.php">
                       <span class="menu-item-text"><?php echo translate('cat-kitdigital-title', $lang, $translations); ?></span>
                     </a>
                   </li>

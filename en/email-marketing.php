@@ -1,11 +1,11 @@
 <?php
 $URLTitleES = "es/email-marketing";
 $URLTitleEN = "en/email-marketing";
+$URLLink = "en/email-marketing";
 $Description = "Optimize your email marketing. Build lasting relationships and convert customers into effective sales.";
 include '../header.php';
+include 'en/nav.php';
 ?>
-    <link rel="canonical" href="https://agenciarubik.com/en/email-marketing"/>
-<?php include '../headersecond.php';?>
 
 <div class="agenciarubik-breadcrumb">
   <div class="container">
@@ -79,7 +79,7 @@ include '../header.php';
       </div>
     </div>
 
-<div class="section agenciarubik-section-padding5">
+    <div class="section my-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">

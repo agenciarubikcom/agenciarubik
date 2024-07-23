@@ -1,11 +1,12 @@
 <?php
 $URLTitleES = "es/index";
 $URLTitleEN = "en/index";
+$URLLink = "en/index";
 $Description = "Innovation and creativity in every click with Agencia Rubik. We transform your digital presence with impressive and personalized web designs.";
 include '../header.php';
+include 'nav.php';
 ?>
-    <link rel="canonical" href="https://agenciarubik.com/en/index"/>
-<?php include '../headersecond.php';?>
+
 <style>
     .site-menu-main, .agenciarubik-footer-top, .mobile-menu-trigger.light {
         display: none;

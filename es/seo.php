@@ -1,12 +1,11 @@
 <?php
 $URLTitleES = "es/seo";
 $URLTitleEN = "en/seo";
+$URLLink = "es/seo";
 $Description = "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO";
 include '../header.php';
+include 'nav.php';
 ?>
-
-<link rel="canonical" href="https://agenciarubik.com/es/seo" />
-<?php include '../headersecond.php'; ?>
 
 <div class="agenciarubik-breadcrumb">
     <div class="container">
@@ -115,7 +114,7 @@ include '../header.php';
     </div>
 </div>
 
-<div class="section agenciarubik-section-padding5">
+<div class="section my-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

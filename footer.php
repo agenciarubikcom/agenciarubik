@@ -45,12 +45,12 @@
       <div class="agenciarubik-social-icon order-md-2">
         <ul>
           <li>
-            <a href="https://agenciarubik.com/es/">
+            <a href="https://agenciarubik.com/es/index">
               <img src="https://agenciarubik.com/assets/images/icon/flag-ES.png" width="20px" title="Español" alt="Español">
             </a>
           </li>
           <li>
-            <a href="https://agenciarubik.com/en/">
+            <a href="https://agenciarubik.com/en/index">
               <img src="https://agenciarubik.com/assets/images/icon/flag-EN.png" width="20px" title="English" alt="English">
 
             </a>

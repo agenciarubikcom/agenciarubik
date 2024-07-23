@@ -1,15 +1,5 @@
 <IfModule mod_rewrite.c>
-    RewriteEngine On
-
-    # Redirección interna de /es y /en a /es/index y /en/index respectivamente sin cambiar la URL
-    RewriteCond %{REQUEST_URI} ^/(es|en)/?$ [NC]
-    RewriteRule ^(es|en)/?$ /%1/index [L]
-
-    # Redirección de /index a /inicio
-    RewriteRule ^index/?$ /inicio [L,R=301]
-
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_FILENAME}\.php -f
-    RewriteRule ^([^/]+)/?$ $1.php [L]
-    RewriteRule ^(en|es)/([^/]+)$ $2.php [L,QSA]
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
 </IfModule>

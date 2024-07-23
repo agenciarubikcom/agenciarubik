@@ -26,11 +26,11 @@
                       <span class="menu-item-text"><?php echo translate('cat-emailmarketing-title', $lang, $translations); ?></span>
                     </a>
                   </li>
-                  <li class="sub-menu--item">
+                  <!--<li class="sub-menu--item">
                     <a href="redes-sociales">
                       <span class="menu-item-text"><?php echo translate('cat-redessociales-title', $lang, $translations); ?></span>
                     </a>
-                  </li>
+                  </li>-->
                   <li class="sub-menu--item">
                     <a href="seo">
                       <span class="menu-item-text"><?php echo translate('cat-seo-title', $lang, $translations); ?></span>

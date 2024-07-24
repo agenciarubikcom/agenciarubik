@@ -2,7 +2,7 @@
 $URLTitleES = "es/alojamiento-web";
 $URLTitleEN = "en/web-hosting";
 $URLLink = "es/alojamiento-web";
-$Description = "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO";
+$Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
 include '../header.php';
 include 'nav.php';
 ?>
@@ -20,150 +20,172 @@ include 'nav.php';
 </div>
 <!-- End breadcrumb -->
 
-<div class="section agenciarubik-section-padding">
+<div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Eleva tu presencia en Línea con nuestro servicio de SEO</h2>
-            <p>En el vasto mundo digital de hoy, tener un sitio web es solo el primer paso.</p>
+            <h2 class="rt-mb-20">Tu solución de alojamiento web de confianza</h2>
+            <p>Entendemos que tu presencia en línea es crucial para el éxito de tu negocio. Por eso, hemos creado un servicio de alojamiento web de alta calidad diseñado para ofrecerte la mejor experiencia posible.</p>
         </div>
     </div>
 </div>
 <!-- End section -->
 
-<div class="section">
+<div class="section mb-5">
     <div class="container">
-       <div class="pricing-btn">
-        <div class="toggle-btn">
-          <label>Mes</label>
-          <input class="form-check-input btn-toggle price-deck-trigger" type="checkbox" id="flexSwitchCheckDefault" data-pricing-trigger="" data-target="#table-price-value" checked="">
-          <label>Año</label>
-        </div>
-      </div>
-      <div class="row agenciarubik-pricing-four-column" id="table-price-value" data-pricing-dynamic="" data-value-active="monthly">
-        <div class="col-xl-3 col-md-6">
+      <div class="row agenciarubik-pricing-four-column" id="table-price-value">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Free</h5>
+              <h5>Lennon</h5>
             </div>
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="0" data-monthly="0" data-yearly="19"></div>
-              <p class="dynamic-value" data-active="/Monthly" data-monthly="/monthly" data-yearly="/Yearly"></p>
+              <div class="agenciarubik-price dynamic-value" data-active="60"></div>
+              <p class="dynamic-value" data-active="/Año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>This plan is typically limited in features and usage</p>
+              <p>Ideal para quienes están comenzando su viaje en la web con creatividad y visión.<br><br></p>
             </div>
             <div class="agenciarubik-pricing-body">
-              <p>Free plan includes:</p>
               <ul>
-                <li><img src="assets/images/v3/check.png" alt="">Basic features</li>
-                <li><img src="assets/images/v3/check.png" alt="">Limited users &amp; usage</li>
-                <li><img src="assets/images/v3/check.png" alt="">No customer support</li>
-                <li><img src="assets/images/v3/check.png" alt="">30 day chat history</li>
-                <li><img src="assets/images/v3/check.png" alt="">10 Integrations</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Sitios</li>
+                <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Hasta 30 Mails</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
+                <li><br></li>
+                <li><br></li>
               </ul>
             </div>
-            <a class="agenciarubik-pricing-btn" href="contact-us.html">Try it for free</a>
           </div>
         </div>
-        <div class="col-xl-3 col-md-6">
-          <div class="agenciarubik-pricing-wrap">
-            <div class="agenciarubik-pricing-header">
-              <h5>Basic</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="19" data-monthly="19" data-yearly="39"></div>
-              <p class="dynamic-value" data-active="/Monthly" data-monthly="/monthly" data-yearly="/Yearly"></p>
-            </div>
-            <div class="agenciarubik-pricing-description">
-              <p>A simple and affordable plan only for small businesses</p>
-            </div>
-            <div class="agenciarubik-pricing-body">
-              <p>Basic plan includes:</p>
-              <ul>
-                <li><img src="assets/images/v3/check.png" alt="">Core features</li>
-                <li><img src="assets/images/v3/check.png" alt="">Increased limits</li>
-                <li><img src="assets/images/v3/check.png" alt="">Priority support</li>
-                <li><img src="assets/images/v3/check.png" alt="">Unlimited chat history</li>
-                <li><img src="assets/images/v3/check.png" alt="">20 Integrations</li>
-              </ul>
-            </div>
-            <a class="agenciarubik-pricing-btn" href="contact-us.html">Try it for free</a>
-          </div>
-        </div>
-        <div class="col-xl-3 col-md-6">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap active">
             <div class="agenciarubik-pricing-header">
-              <h5>Standard</h5>
+              <h5>Jagger</h5>
             </div>
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="29" data-monthly="29" data-yearly="59"></div>
-              <p class="dynamic-value" data-active="/Monthly" data-monthly="/monthly" data-yearly="/Yearly"></p>
+              <div class="agenciarubik-price dynamic-value" data-active="95"></div>
+              <p class="dynamic-value" data-active="/Año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>This plan is geared toward growing businesses</p>
+              <p>Perfecto para negocios en expansión que necesitan un servicio confiable y eficiente.<br><br></p>
             </div>
             <div class="agenciarubik-pricing-body">
-              <p>Standard plan includes:</p>
+
               <ul>
-                <li><img src="assets/images/v3/check.png" alt="">Expanded features</li>
-                <li><img src="assets/images/v3/check.png" alt="">Increased users</li>
-                <li><img src="assets/images/v3/check.png" alt="">Priority email support</li>
-                <li><img src="assets/images/v3/check.png" alt="">Unlimited chat history</li>
-                <li><img src="assets/images/v3/check.png" alt="">30 Integrations</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
+                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
               </ul>
             </div>
-            <a class="agenciarubik-pricing-btn active" href="contact-us.html">Try it for free</a>
           </div>
         </div>
-        <div class="col-xl-3 col-md-6">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Enterprise</h5>
+              <h5>McCartney</h5>
             </div>
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="59" data-monthly="59" data-yearly="99"></div>
-              <p class="dynamic-value" data-active="/Monthly" data-monthly="/monthly" data-yearly="/Yearly"></p>
+              <div class="agenciarubik-price dynamic-value" data-active="150"></div>
+              <p class="dynamic-value" data-active="/Año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Tailored to the unique needs of large enterprises</p>
+              <p>Diseñado para aquellos que buscan la máxima confiabilidad y rendimiento profesional en su presencia en línea.</p>
             </div>
             <div class="agenciarubik-pricing-body">
-              <p>Enterprise plan includes:</p>
+
               <ul>
-                <li><img src="assets/images/v3/check.png" alt="">Customized features</li>
-                <li><img src="assets/images/v3/check.png" alt="">Scalability &amp; security </li>
-                <li><img src="assets/images/v3/check.png" alt="">Account manager</li>
-                <li><img src="assets/images/v3/check.png" alt="">Unlimited chat history</li>
-                <li><img src="assets/images/v3/check.png" alt="">50 Integrations</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
+                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
               </ul>
             </div>
-            <a class="agenciarubik-pricing-btn" href="contact-us.html">Try it for free</a>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-<div class="container mb-5">
-    <div class="row">
-        <div class="col-lg-5">
-            <div class="agenciarubik-v3-thumb">
-                <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+  <div class="section agenciarubik-section-padding3">
+    <div class="container">
+      <div class="agenciarubik-section-title agenciarubik-two-column-title">
+        <div class="row">
+          <div class="col-lg-7">
+            <h2>¡No Te Quedes con Dudas!</h2>
+          </div>
+          <div class="col-lg-5 d-flex align-items-center">
+            <p>Sabemos que tomar una decisión sobre el alojamiento web es importante y queremos que te sientas completamente seguro. Por eso, nuestro equipo está siempre disponible para responder cualquier pregunta que puedas tener. No dudes en contactarnos antes de contratar. Queremos asegurarnos de que entiendas todas las características y beneficios de nuestros planes para que puedas tomar la mejor decisión para tu negocio.</p>
+          </div>
+        </div>
+      </div>
 
-            </div>
-        </div>
-        <div class="col-lg-7">
-            <div class="agenciarubik-default-content m-left">
-                <h2>Transforma tu sitio web en un imán de tráfico</h2>
-                <p>Con nuestro servicio de SEO para páginas web, te ayudamos a superar a la competencia, aumentar tu visibilidad en línea y atraer a más clientes potenciales. No importa el tamaño de tu negocio o la industria en la que operes, una estrategia de SEO efectiva es fundamental para tu éxito en línea.<br><br><b>Contáctanos hoy y comienza el viaje para maximizar tu presencia en línea y llevar tu negocio al próximo nivel.</p>
-            </div>
-        </div>
+      <div class="agenciarubik-table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Feature Name:</th>
+              <th>Lennon</th>
+              <th>Jagger</th>
+              <th>McCartney</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Users</td>
+              <td>Up to 15 users</td>
+              <td>Up to 20 users</td>
+              <td>Up to 100 users</td>
+            </tr>
+            <tr>
+              <td>File storage</td>
+              <td>2 GB</td>
+              <td>5 GB</td>
+              <td>10 GB</td>
+            </tr>
+            <tr>
+              <td>Premium supports</td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+            </tr>
+            <tr>
+              <td>Secure transfer</td>
+              <td><img src="assets/images/icon/minus.svg" alt=""></td>
+              <td><img src="assets/images/icon/minus.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+            </tr>
+            <tr>
+              <td>Statistics and tracking</td>
+              <td><img src="assets/images/icon/minus.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+            </tr>
+            <tr>
+              <td>File size limit</td>
+              <td>100 MB</td>
+              <td>1 GB</td>
+              <td>1 GB</td>
+            </tr>
+            <tr>
+              <td>Mobile app</td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="assets/images/icon/check.svg" alt=""></td>
+            </tr>
+
+          </tbody>
+        </table>
+      </div>
     </div>
-</div>
+  </div>
 
 <div class="section my-5">
     <div class="container">

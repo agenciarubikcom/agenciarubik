@@ -141,7 +141,7 @@ include 'nav.php';
             <tr>
               <td>Espacio en disco</td>
               <td>20 GB SSD</td>
-              <td>Espacio SSD Ilimitado</td>
+              <td>SSD Ilimitado</td>
               <td>50 GB SSD</td>
             </tr>
             <tr>
@@ -204,6 +204,14 @@ include 'nav.php';
       </div>
     </div>
   </div>
+
+  <div class="section mt-5">
+    <div class="container">
+        <div class="agenciarubik-section-title center">
+            <p>Si necesitas información adicional o especificaciones más detalladas, no dudes en contactarnos.</p>
+        </div>
+    </div>
+</div>
 
 <div class="section my-5">
     <div class="container">

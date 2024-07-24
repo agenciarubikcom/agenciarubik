@@ -145,22 +145,22 @@ include 'nav.php';
               <td>50 GB SSD</td>
             </tr>
             <tr>
-              <td>Archivos / Carpetas</td>
+              <td>Limite de archivos y carpetas</td>
               <td>300.000</td>
               <td>300.000</td>
               <td>600.000</td>
             </tr>
             <tr>
-              <td>Premium supports</td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td>Ancho de banda</td>
+              <td>Ilimitado</td>
+              <td>Ilimitado</td>
+              <td>Ilimitado</td>
             </tr>
             <tr>
-              <td>Secure transfer</td>
-              <td><img src="assets/images/icon/minus.svg" alt=""></td>
-              <td><img src="assets/images/icon/minus.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td>Dominios</td>
+              <td>Hasta 3 dominios</td>
+              <td>Ilimitados</td>
+              <td>Ilimitados</td>
             </tr>
             <tr>
               <td>Statistics and tracking</td>

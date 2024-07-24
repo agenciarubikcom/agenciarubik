@@ -2,7 +2,7 @@
 $URLTitleES = "es/diseno-grafico";
 $URLTitleEN = "en/graphic-design";
 $URLLink = "es/diseno-grafico";
-$Description = "Análisis y diseño de pruebas que transforman tu visión en experiencias impecables";
+$Description = "Transforma tus ideas en impresionantes diseños con nuestro servicio de diseño gráfico profesional.";
 include '../header.php';
 include 'nav.php';
 ?>

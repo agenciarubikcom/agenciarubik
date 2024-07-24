@@ -158,7 +158,7 @@ include 'nav.php';
             </tr>
             <tr>
               <td>Dominios</td>
-              <td>Hasta 3 dominios</td>
+              <td>3</td>
               <td>Ilimitados</td>
               <td>Ilimitados</td>
             </tr>
@@ -181,13 +181,19 @@ include 'nav.php';
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
             </tr>
             <tr>
-              <td>File size limit</td>
-              <td>100 MB</td>
-              <td>1 GB</td>
-              <td>1 GB</td>
+              <td>Cuentas de email</td>
+              <td>30</td>
+              <td>Ilimitadas</td>
+              <td>Ilimitadas</td>
             </tr>
             <tr>
-              <td>Mobile app</td>
+              <td>Bases MySQL</td>
+              <td>50</td>
+              <td>Ilimitadas</td>
+              <td>Ilimitadas</td>
+            </tr>
+            <tr>
+              <td>Soporte 24/7 vía mail</td>
               <td><img src="assets/images/icon/check.svg" alt=""></td>
               <td><img src="assets/images/icon/check.svg" alt=""></td>
               <td><img src="assets/images/icon/check.svg" alt=""></td>

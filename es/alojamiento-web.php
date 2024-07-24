@@ -114,7 +114,7 @@ include 'nav.php';
     </div>
   </div>
 
-  <div class="section agenciarubik-section-padding3">
+  <div class="section">
     <div class="container">
       <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">

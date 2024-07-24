@@ -193,7 +193,7 @@ include 'nav.php';
               <td>Ilimitadas</td>
             </tr>
             <tr>
-              <td>Soporte 24/7 vía mail</td>
+              <td>Soporte vía mail 24/7</td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>

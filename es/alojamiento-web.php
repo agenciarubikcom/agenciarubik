@@ -171,8 +171,8 @@ include 'nav.php';
             <tr>
               <td>Backups</td>
               <td>Dos veces a la semana</td>
-              <td>Dos veces a la semana + Autobackup</td>
-              <td>Dos veces a la semana + Autobackup</td>
+              <td>Dos veces a la semana<br>Autobackup</td>
+              <td>Dos veces a la semana<br>Autobackup</td>
             </tr>
             <tr>
               <td>IP dedicada</td>

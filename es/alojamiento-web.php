@@ -176,9 +176,9 @@ include 'nav.php';
             </tr>
             <tr>
               <td>IP dedicada</td>
-              <td><img src="assets/images/icon/minus.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/minus.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" alt=""></td>
             </tr>
             <tr>
               <td>File size limit</td>

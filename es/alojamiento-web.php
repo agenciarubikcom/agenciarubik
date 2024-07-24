@@ -41,7 +41,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="60"></div>
-              <p class="dynamic-value" data-active="/Año"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Ideal para quienes están comenzando su viaje en la web con creatividad y visión.<br><br></p>
@@ -66,7 +66,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="95"></div>
-              <p class="dynamic-value" data-active="/Año"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Perfecto para negocios en expansión que necesitan un servicio confiable y eficiente.<br><br></p>
@@ -92,7 +92,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="150"></div>
-              <p class="dynamic-value" data-active="/Año"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Diseñado para aquellos que buscan la máxima confiabilidad y rendimiento profesional en su presencia en línea.</p>

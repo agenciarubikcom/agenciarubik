@@ -48,7 +48,7 @@ include 'nav.php';
             </div>
             <div class="agenciarubik-pricing-body">
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Sitios</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Dominios</li>
                 <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Hasta 30 Mails</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
@@ -74,7 +74,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
@@ -100,7 +100,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
@@ -163,7 +163,19 @@ include 'nav.php';
               <td>Ilimitados</td>
             </tr>
             <tr>
-              <td>Statistics and tracking</td>
+              <td>Subdominios</td>
+              <td>30</td>
+              <td>Ilimitados</td>
+              <td>Ilimitados</td>
+            </tr>
+            <tr>
+              <td>Backups</td>
+              <td>Dos veces a la semana</td>
+              <td>Dos veces a la semana + Autobackup</td>
+              <td>Dos veces a la semana + Autobackup</td>
+            </tr>
+            <tr>
+              <td>IP dedicada</td>
               <td><img src="assets/images/icon/minus.svg" alt=""></td>
               <td><img src="assets/images/icon/check.svg" alt=""></td>
               <td><img src="assets/images/icon/check.svg" alt=""></td>

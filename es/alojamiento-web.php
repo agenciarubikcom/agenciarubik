@@ -194,9 +194,9 @@ include 'nav.php';
             </tr>
             <tr>
               <td>Soporte 24/7 vía mail</td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
-              <td><img src="assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" alt=""></td>
             </tr>
 
           </tbody>

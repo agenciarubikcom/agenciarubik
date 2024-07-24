@@ -49,7 +49,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-body">
               <ul>
                 <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Sitios</li>
-                <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Hasta 30 Mails</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
                 <li><br></li>
@@ -75,7 +75,7 @@ include 'nav.php';
 
               <ul>
                 <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
                 <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
@@ -101,7 +101,7 @@ include 'nav.php';
 
               <ul>
                 <li><img src="../assets/images/v3/check.png" alt="">Sitios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD*</li>
+                <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD</li>
                 <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
                 <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
@@ -131,7 +131,7 @@ include 'nav.php';
         <table>
           <thead>
             <tr>
-              <th>Feature Name:</th>
+              <th>Característica</th>
               <th>Lennon</th>
               <th>Jagger</th>
               <th>McCartney</th>
@@ -139,16 +139,16 @@ include 'nav.php';
           </thead>
           <tbody>
             <tr>
-              <td>Users</td>
-              <td>Up to 15 users</td>
-              <td>Up to 20 users</td>
-              <td>Up to 100 users</td>
+              <td>Espacio en disco</td>
+              <td>20 GB SSD</td>
+              <td>Espacio SSD Ilimitado</td>
+              <td>50 GB SSD</td>
             </tr>
             <tr>
-              <td>File storage</td>
-              <td>2 GB</td>
-              <td>5 GB</td>
-              <td>10 GB</td>
+              <td>Archivos / Carpetas</td>
+              <td>300.000</td>
+              <td>300.000</td>
+              <td>600.000</td>
             </tr>
             <tr>
               <td>Premium supports</td>

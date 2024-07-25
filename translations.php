@@ -89,8 +89,8 @@ return [
     "en_form-mensaje-error" => "Try again please",
 
     /*Footer*/
-    "es_hitext" => "Somos una agencia de soluciones web con más de 10 años en el mercado ubicada en Montevideo, Uruguay🧉. Nos dedicamos a brindar servicios a clientes de todo el mundo. Nos enorgullece crear experiencias digitales únicas y efectivas, reflejando la pasión y el compromiso que ponemos en cada detalle de nuestro trabajo.",
-    "en_hitext" => "We are a web solutions agency with more than 10 years in the market located in Montevideo, Uruguay🧉. We are dedicated to providing services to clients from all over the world. We take pride in creating unique and effective digital experiences, reflecting the passion and commitment we put into every detail of our work.
+    "es_hitext" => "Somos una agencia de soluciones web con más de 10 años en el mercado ubicada en Uruguay🧉. Nos dedicamos a brindar servicios a clientes de todo el mundo. Nos enorgullece crear experiencias digitales únicas y efectivas, reflejando la pasión y el compromiso que ponemos en cada detalle de nuestro trabajo.",
+    "en_hitext" => "We are a web solutions agency with more than 10 years in the market located in Uruguay🧉. We are dedicated to providing services to clients from all over the world. We take pride in creating unique and effective digital experiences, reflecting the passion and commitment we put into every detail of our work.
     ",
     "es_footer-title" => "Quiénes somos",
     "en_footer-title" => "About us",

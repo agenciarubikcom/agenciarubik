@@ -86,7 +86,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Contenido Optimizado y Valioso</span>
+                            <span>Contenido optimizado y valioso</span>
                             <p>Creación de contenido fresco, relevante y optimizado para SEO que resuene con tu audiencia y posicione tu sitio como una autoridad en tu nicho. Desde blogs hasta guías y estudios de caso, el contenido de calidad es fundamental para atraer y retener a tu audiencia.</p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Mejora de la Velocidad y Experiencia del Usuario</span>
+                            <span>Mejora de la velocidad y experiencia del usuario</span>
                             <p>La velocidad de carga del sitio web y la experiencia del usuario son factores críticos para el SEO. Trabajamos para optimizar estos aspectos, asegurando que tu sitio web sea rápido, responsive y fácil de navegar en cualquier dispositivo.</p>
                         </div>
                     </div>
@@ -109,8 +109,7 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title">
-            <h3 class="rt-mb-20">Transforma visitantes en clientes con nuestras Landing Pages
-            </h3>
+            <h3 class="rt-mb-20">Transforma visitantes en clientes con nuestras Landing Pages</h3>
             <p>Con una combinación de diseño atractivo, contenido persuasivo y tecnología avanzada, nuestras landing pages son la herramienta perfecta para captar la atención de tu audiencia y convertir el interés en acción. Ya sea que busques generar leads, aumentar las ventas o promover un evento, nuestras soluciones personalizadas te ayudarán a alcanzar tus objetivos.</p>
         </div>
     </div>

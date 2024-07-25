@@ -20,15 +20,24 @@ include 'nav.php';
 </div>
 <!-- End breadcrumb -->
 
-<div class="section mt-5">
-    <div class="container">
-        <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Impulsa tu negocio online</h2>
+<div class="section agenciarubik-section-padding2">
+<div class="container">
+  <div class="row align-items-center">
+  
+    <div class="col-lg-6">
+    <h2 class="rt-mb-20">Impulsa tu negocio online</h2>
             <p>En la era digital, la primera interacción que un cliente potencial tiene con tu marca a menudo sucede online. Una landing page bien diseñada y optimizada es crucial para convertir ese primer clic en una conexión duradera. Nuestro servicio de desarrollo de landing pages está diseñado para capturar la esencia de tu negocio y comunicar eficazmente el valor de tu producto o servicio, garantizando una primera impresión memorable y convincente.</p>
-        </div>
     </div>
+    <div class="col-lg-6">
+      <div class="agenciarubik-v3-thumb p-5">
+        <img src="https://agenciarubik.com/assets/images/manual-de-marca.svg" title="Manual de Marca" alt="Manual de Marca">
+      </div>
+    </div>
+
+  </div>
 </div>
-<!-- End section -->
+</div>
+
 
 <div class="section mt-5">
     <div class="container">

@@ -2,7 +2,7 @@
 $URLTitleES = "es/landings-page";
 $URLTitleEN = "en/landings-page";
 $URLLink = "es/landings-page";
-$Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
+$Description = "Landing Pages profesionales para impulsar tu negocio online. Captura la atención de tus clientes potenciales y garantiza una primera impresión memorable y efectiva.";
 include '../header.php';
 include 'nav.php';
 ?>

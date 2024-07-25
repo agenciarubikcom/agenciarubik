@@ -45,7 +45,7 @@ include 'nav.php';
         <div class="row">
             <div class="col-lg-7">
                 <div class="agenciarubik-default-content m-right-50 sticky">
-                    <h2>Nuestro Enfoque en el Desarrollo de Landing Pages</h2>
+                    <h2>Nuestro enfoque en el desarrollo de Landing Pages</h2>
                 </div>
             </div>
             <div class="col-lg-5">
@@ -105,6 +105,17 @@ include 'nav.php';
         </div>
     </div>
 </div>
+
+<div class="section mt-5">
+    <div class="container">
+        <div class="agenciarubik-section-title center">
+            <h3 class="rt-mb-20">Transforma visitantes en clientes con nuestras Landing Pages
+            </h3>
+            <p>Con una combinación de diseño atractivo, contenido persuasivo y tecnología avanzada, nuestras landing pages son la herramienta perfecta para captar la atención de tu audiencia y convertir el interés en acción. Ya sea que busques generar leads, aumentar las ventas o promover un evento, nuestras soluciones personalizadas te ayudarán a alcanzar tus objetivos.</p>
+        </div>
+    </div>
+</div>
+<!-- End section -->
 
 <div class="section my-5">
     <div class="container">

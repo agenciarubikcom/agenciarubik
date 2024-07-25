@@ -32,7 +32,7 @@ include 'nav.php';
 
 <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title">
             <h3 class="rt-mb-20">¿Qué es una Landing Page?</h3>
             <p>Una landing page es una página web diseñada con un objetivo claro: convertir visitantes en leads o clientes. Sirve como el punto de entrada a una oferta específica, campaña o acción que deseas que tu audiencia tome. Al centrarse en un único objetivo, las landing pages son increíblemente efectivas para aumentar las tasas de conversión y maximizar el retorno de inversión en tus campañas de marketing digital.</p>
         </div>
@@ -108,7 +108,7 @@ include 'nav.php';
 
 <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title">
             <h3 class="rt-mb-20">Transforma visitantes en clientes con nuestras Landing Pages
             </h3>
             <p>Con una combinación de diseño atractivo, contenido persuasivo y tecnología avanzada, nuestras landing pages son la herramienta perfecta para captar la atención de tu audiencia y convertir el interés en acción. Ya sea que busques generar leads, aumentar las ventas o promover un evento, nuestras soluciones personalizadas te ayudarán a alcanzar tus objetivos.</p>

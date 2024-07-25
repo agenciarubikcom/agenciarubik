@@ -1,8 +1,8 @@
 <?php
-$URLTitleES = "es/landings-page";
-$URLTitleEN = "en/landings-page";
-$URLLink = "es/landings-page";
-$Description = "Landing Pages profesionales para impulsar tu negocio online. Captura la atención de tus clientes potenciales y garantiza una primera impresión memorable y efectiva.";
+$URLTitleES = "es/landings-pages";
+$URLTitleEN = "en/landings-pages";
+$URLLink = "es/landings-pages";
+$Description = "Landings Pages profesionales para impulsar tu negocio online. Captura la atención de tus clientes potenciales y garantiza una primera impresión memorable y efectiva.";
 include '../header.php';
 include 'nav.php';
 ?>

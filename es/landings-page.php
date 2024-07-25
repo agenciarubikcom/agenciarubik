@@ -33,192 +33,75 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">¿Qué es una Landing Page?</h2>
+            <h3 class="rt-mb-20">¿Qué es una Landing Page?</h3>
             <p>Una landing page es una página web diseñada con un objetivo claro: convertir visitantes en leads o clientes. Sirve como el punto de entrada a una oferta específica, campaña o acción que deseas que tu audiencia tome. Al centrarse en un único objetivo, las landing pages son increíblemente efectivas para aumentar las tasas de conversión y maximizar el retorno de inversión en tus campañas de marketing digital.</p>
         </div>
     </div>
 </div>
 <!-- End section -->
 
-<div class="section mb-5">
+<div class="section agenciarubik-section-padding5">
     <div class="container">
-      <div class="row agenciarubik-pricing-four-column" id="table-price-value">
-        <div class="col-xl-4 col-md-6">
-          <div class="agenciarubik-pricing-wrap">
-            <div class="agenciarubik-pricing-header">
-              <h5>Lennon</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="60"></div>
-              <p class="dynamic-value" data-active="por año"></p>
-            </div>
-            <div class="agenciarubik-pricing-description">
-              <p>Ideal para quienes están comenzando su viaje en la web con creatividad y visión.<br><br></p>
-            </div>
-            <div class="agenciarubik-pricing-body">
-              <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Dominios</li>
-                <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Hasta 30 Mails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
-                <li><br></li>
-                <li><br></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-4 col-md-6">
-          <div class="agenciarubik-pricing-wrap active">
-            <div class="agenciarubik-pricing-header">
-              <h5>Jagger</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="95"></div>
-              <p class="dynamic-value" data-active="por año"></p>
-            </div>
-            <div class="agenciarubik-pricing-description">
-              <p>Perfecto para negocios en expansión que necesitan un servicio confiable y eficiente.<br><br></p>
-            </div>
-            <div class="agenciarubik-pricing-body">
-
-              <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
-                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-4 col-md-6">
-          <div class="agenciarubik-pricing-wrap">
-            <div class="agenciarubik-pricing-header">
-              <h5>McCartney</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="150"></div>
-              <p class="dynamic-value" data-active="por año"></p>
-            </div>
-            <div class="agenciarubik-pricing-description">
-              <p>Diseñado para aquellos que buscan la máxima confiabilidad y rendimiento profesional en su presencia en línea.</p>
-            </div>
-            <div class="agenciarubik-pricing-body">
-
-              <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
-                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="container">
-      <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">
-          <div class="col-lg-7">
-            <h2>¡No Te Quedes con Dudas!</h2>
-          </div>
-          <div class="col-lg-5 d-flex align-items-center">
-            <p>Sabemos que tomar una decisión sobre el alojamiento web es importante y queremos que te sientas completamente seguro. Por eso, nuestro equipo está siempre disponible para responder cualquier pregunta que puedas tener. No dudes en contactarnos antes de contratar. Queremos asegurarnos de que entiendas todas las características y beneficios de nuestros planes para que puedas tomar la mejor decisión para tu negocio.</p>
-          </div>
-        </div>
-      </div>
+            <div class="col-lg-7">
+                <div class="agenciarubik-default-content m-right-50 sticky">
+                    <h2>Nuestro Enfoque en el Desarrollo de Landing Pages</h2>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="agenciarubik-default-content">
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
 
-      <div class="agenciarubik-table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>Característica</th>
-              <th>Lennon</th>
-              <th>Jagger</th>
-              <th>McCartney</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Espacio en disco</td>
-              <td>20 GB SSD</td>
-              <td>SSD Ilimitado</td>
-              <td>50 GB SSD</td>
-            </tr>
-            <tr>
-              <td>Limite de archivos y carpetas</td>
-              <td>300.000</td>
-              <td>300.000</td>
-              <td>600.000</td>
-            </tr>
-            <tr>
-              <td>Ancho de banda</td>
-              <td>Ilimitado</td>
-              <td>Ilimitado</td>
-              <td>Ilimitado</td>
-            </tr>
-            <tr>
-              <td>Dominios</td>
-              <td>3</td>
-              <td>Ilimitados</td>
-              <td>Ilimitados</td>
-            </tr>
-            <tr>
-              <td>Subdominios</td>
-              <td>30</td>
-              <td>Ilimitados</td>
-              <td>Ilimitados</td>
-            </tr>
-            <tr>
-              <td>Backups</td>
-              <td>Dos veces a la semana</td>
-              <td>Dos veces a la semana<br>Autobackup</td>
-              <td>Dos veces a la semana<br>Autobackup</td>
-            </tr>
-            <tr>
-              <td>IP dedicada</td>
-              <td><img src="../assets/images/icon/minus.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-            </tr>
-            <tr>
-              <td>Cuentas de email</td>
-              <td>30</td>
-              <td>Ilimitadas</td>
-              <td>Ilimitadas</td>
-            </tr>
-            <tr>
-              <td>Bases MySQL</td>
-              <td>50</td>
-              <td>Ilimitadas</td>
-              <td>Ilimitadas</td>
-            </tr>
-            <tr>
-              <td>Soporte vía mail 24/7</td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-            </tr>
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Diseño personalizado y orientado a la conversión</span>
+                            <p>Desarrollamos cada landing page con un diseño personalizado que no solo refleja tu marca sino que también está optimizado para la conversión. Desde la elección de colores y tipografías hasta la disposición de los elementos en la página, cada detalle está pensado para guiar al visitante hacia la acción deseada.</p>
+                        </div>
+                    </div>
 
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
 
-  <div class="section mt-5">
-    <div class="container">
-        <div class="agenciarubik-section-title center">
-            <p>Si necesitas información adicional o especificaciones más detalladas, no dudes en contactarnos.</p>
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Hasta 5 Módulos</span>
+                            <p>Nuestras landing pages pueden incluir hasta 5 módulos personalizables, permitiéndote contar la historia de tu servicio o producto de manera efectiva. Estos módulos pueden albergar textos persuasivos, vídeos explicativos, imágenes impactantes, galerías interactivas y formularios de contacto, entre otros, para ofrecer una experiencia rica y envolvente a tus visitantes.</p>
+                        </div>
+                    </div>
+
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
+
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Cumplimiento de estándares de SEO, performance y accesibilidad</span>
+                            <p>Entendemos la importancia de la visibilidad online, la velocidad de carga y la accesibilidad. Por ello, aseguramos que todas nuestras landing pages cumplen con los estándares más actuales de SEO para una mejor posición en los motores de búsqueda, optimizamos la performance para una carga rápida y eficiente, y seguimos las directrices de accesibilidad web para garantizar que tu mensaje llegue a todos los usuarios.</p>
+                        </div>
+                    </div>
+
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
+
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Soporte continuo y análisis de rendimiento</span>
+                            <p>Nuestro compromiso con tu éxito no termina con el lanzamiento de la página. Ofrecemos soporte continuo y análisis de rendimiento para asegurar que tu landing page siga siendo efectiva a lo largo del tiempo, adaptándonos a cambios en el mercado y en las preferencias de tu audiencia.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
+
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Contenido Optimizado y Valioso</span>
+                            <p>Creación de contenido fresco, relevante y optimizado para SEO que resuene con tu audiencia y posicione tu sitio como una autoridad en tu nicho. Desde blogs hasta guías y estudios de caso, el contenido de calidad es fundamental para atraer y retener a tu audiencia.</p>
+                        </div>
+                    </div>
+
+
+                    <div class="agenciarubik-iconbox-wrap-left mw-100">
+
+                        <div class="agenciarubik-iconbox-data data-small">
+                            <span>Mejora de la Velocidad y Experiencia del Usuario</span>
+                            <p>La velocidad de carga del sitio web y la experiencia del usuario son factores críticos para el SEO. Trabajamos para optimizar estos aspectos, asegurando que tu sitio web sea rápido, responsive y fácil de navegar en cualquier dispositivo.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
     </div>
 </div>

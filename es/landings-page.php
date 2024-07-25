@@ -23,7 +23,7 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Impulsa tu negocio online con Landing Pages profesionales</h2>
+            <h2 class="rt-mb-20">Impulsa tu negocio online</h2>
             <p>En la era digital, la primera interacción que un cliente potencial tiene con tu marca a menudo sucede online. Una landing page bien diseñada y optimizada es crucial para convertir ese primer clic en una conexión duradera. Nuestro servicio de desarrollo de landing pages está diseñado para capturar la esencia de tu negocio y comunicar eficazmente el valor de tu producto o servicio, garantizando una primera impresión memorable y convincente.</p>
         </div>
     </div>

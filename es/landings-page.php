@@ -1,18 +1,18 @@
 <?php
-$URLTitleES = "es/alojamiento-web";
-$URLTitleEN = "en/web-hosting";
-$URLLink = "en/web-hosting";
-$Description = "We offer flexible aircraft, robust security and 24/7 technical support. Do not entertain doubts! Contact us and choose the best plan for your site.";
+$URLTitleES = "es/landings-page";
+$URLTitleEN = "en/landings-page";
+$URLLink = "es/landings-page";
+$Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
 include '../header.php';
 include 'nav.php';
 ?>
 
 <div class="agenciarubik-breadcrumb">
     <div class="container">
-        <h1 class="post__title">Web Hosting</h1>
+        <h1 class="post__title">Landings Page</h1>
         <nav class="breadcrumbs">
             <ul>
-                <li aria-current="page">Products</li>
+                <li aria-current="page">Desarrollo</li>
             </ul>
         </nav>
 
@@ -23,8 +23,18 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Your trusted web hosting solution</h2>
-            <p>We understand that your online presence is crucial to the success of your business. That's why we've created a high-quality web hosting service designed to give you the best experience possible.</p>
+            <h2 class="rt-mb-20">Impulsa tu negocio online con Landing Pages profesionales</h2>
+            <p>En la era digital, la primera interacción que un cliente potencial tiene con tu marca a menudo sucede online. Una landing page bien diseñada y optimizada es crucial para convertir ese primer clic en una conexión duradera. Nuestro servicio de desarrollo de landing pages está diseñado para capturar la esencia de tu negocio y comunicar eficazmente el valor de tu producto o servicio, garantizando una primera impresión memorable y convincente.</p>
+        </div>
+    </div>
+</div>
+<!-- End section -->
+
+<div class="section mt-5">
+    <div class="container">
+        <div class="agenciarubik-section-title center">
+            <h2 class="rt-mb-20">¿Qué es una Landing Page?</h2>
+            <p>Una landing page es una página web diseñada con un objetivo claro: convertir visitantes en leads o clientes. Sirve como el punto de entrada a una oferta específica, campaña o acción que deseas que tu audiencia tome. Al centrarse en un único objetivo, las landing pages son increíblemente efectivas para aumentar las tasas de conversión y maximizar el retorno de inversión en tus campañas de marketing digital.</p>
         </div>
     </div>
 </div>
@@ -41,17 +51,17 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="60"></div>
-              <p class="dynamic-value" data-active="by year"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Ideal for those starting their web journey with creativity and vision.<br><br></p>
+              <p>Ideal para quienes están comenzando su viaje en la web con creatividad y visión.<br><br></p>
             </div>
             <div class="agenciarubik-pricing-body">
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Up to 3 Domains</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Hasta 3 Dominios</li>
                 <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Up to 30 Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Hasta 30 Mails</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
                 <li><br></li>
                 <li><br></li>
               </ul>
@@ -66,20 +76,20 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="95"></div>
-              <p class="dynamic-value" data-active="by year"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Perfect for expanding businesses that need reliable and efficient service.<br><br></p>
+              <p>Perfecto para negocios en expansión que necesitan un servicio confiable y eficiente.<br><br></p>
             </div>
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Domains</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited SSD Space</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Dedicated IP</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Espacio SSD Ilimitado</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
                 <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
               </ul>
             </div>
           </div>
@@ -92,19 +102,20 @@ include 'nav.php';
             <div class="agenciarubik-pricing-price">
               <h2>$</h2>
               <div class="agenciarubik-price dynamic-value" data-active="150"></div>
-              <p class="dynamic-value" data-active="by year"></p>
+              <p class="dynamic-value" data-active="por año"></p>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Designed for those looking for maximum reliability and professional performance in their online presence.</p>
+              <p>Diseñado para aquellos que buscan la máxima confiabilidad y rendimiento profesional en su presencia en línea.</p>
             </div>
             <div class="agenciarubik-pricing-body">
+
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Domains</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Dominios Ilimitados</li>
                 <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Dedicated IP</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Mails Ilimitados</li>
+                <li><img src="../assets/images/v3/check.png" alt="">IP dedicada</li>
                 <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" alt="">Soporte vía mail 24/7</li>
               </ul>
             </div>
           </div>
@@ -118,10 +129,10 @@ include 'nav.php';
       <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">
           <div class="col-lg-7">
-            <h2>Do not entertain doubts!</h2>
+            <h2>¡No Te Quedes con Dudas!</h2>
           </div>
           <div class="col-lg-5 d-flex align-items-center">
-            <p>We know that making a decision about web hosting is important and we want you to feel completely confident. That's why our team is always available to answer any questions you may have. Do not hesitate to contact us before hiring. We want to make sure you understand all the features and benefits of our plans so you can make the best decision for your business.</p>
+            <p>Sabemos que tomar una decisión sobre el alojamiento web es importante y queremos que te sientas completamente seguro. Por eso, nuestro equipo está siempre disponible para responder cualquier pregunta que puedas tener. No dudes en contactarnos antes de contratar. Queremos asegurarnos de que entiendas todas las características y beneficios de nuestros planes para que puedas tomar la mejor decisión para tu negocio.</p>
           </div>
         </div>
       </div>
@@ -130,7 +141,7 @@ include 'nav.php';
         <table>
           <thead>
             <tr>
-              <th>Characteristic</th>
+              <th>Característica</th>
               <th>Lennon</th>
               <th>Jagger</th>
               <th>McCartney</th>
@@ -138,61 +149,61 @@ include 'nav.php';
           </thead>
           <tbody>
             <tr>
-              <td>Disc space</td>
+              <td>Espacio en disco</td>
               <td>20 GB SSD</td>
-              <td>Unlimited SSD</td>
+              <td>SSD Ilimitado</td>
               <td>50 GB SSD</td>
             </tr>
             <tr>
-              <td>File and folder limit</td>
+              <td>Limite de archivos y carpetas</td>
               <td>300.000</td>
               <td>300.000</td>
               <td>600.000</td>
             </tr>
             <tr>
-              <td>Bandwidth</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
+              <td>Ancho de banda</td>
+              <td>Ilimitado</td>
+              <td>Ilimitado</td>
+              <td>Ilimitado</td>
             </tr>
             <tr>
-              <td>Domains</td>
+              <td>Dominios</td>
               <td>3</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
+              <td>Ilimitados</td>
+              <td>Ilimitados</td>
             </tr>
             <tr>
-              <td>Subdomains</td>
+              <td>Subdominios</td>
               <td>30</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
+              <td>Ilimitados</td>
+              <td>Ilimitados</td>
             </tr>
             <tr>
               <td>Backups</td>
-              <td>Twice a week</td>
-              <td>Twice a week<br>Autobackup</td>
-              <td>Twice a week<br>Autobackup</td>
+              <td>Dos veces a la semana</td>
+              <td>Dos veces a la semana<br>Autobackup</td>
+              <td>Dos veces a la semana<br>Autobackup</td>
             </tr>
             <tr>
-              <td>Dedicated IP</td>
+              <td>IP dedicada</td>
               <td><img src="../assets/images/icon/minus.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
             </tr>
             <tr>
-              <td>Email accounts</td>
+              <td>Cuentas de email</td>
               <td>30</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
+              <td>Ilimitadas</td>
+              <td>Ilimitadas</td>
             </tr>
             <tr>
-              <td>MySQL Bases</td>
+              <td>Bases MySQL</td>
               <td>50</td>
-              <td>Unlimited</td>
-              <td>Unlimited</td>
+              <td>Ilimitadas</td>
+              <td>Ilimitadas</td>
             </tr>
             <tr>
-              <td>Support via email 24/7</td>
+              <td>Soporte vía mail 24/7</td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
               <td><img src="../assets/images/icon/check.svg" alt=""></td>
@@ -207,7 +218,7 @@ include 'nav.php';
   <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <p>If you need additional information or more detailed specifications, please do not hesitate to contact us.</p>
+            <p>Si necesitas información adicional o especificaciones más detalladas, no dudes en contactarnos.</p>
         </div>
     </div>
 </div>

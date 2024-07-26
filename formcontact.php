@@ -68,7 +68,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         const iframe = document.getElementById('miIframe');
         iframe.contentWindow.postMessage(data, 'https://dash.agenciarubik.com');
 
-        // Opcionalmente, envía el formulario principal aquí si necesitas guardar datos localmente
-        event.target.submit();
+        // Esperar un momento antes de enviar el formulario principal
+        setTimeout(function() {
+            event.target.submit();
+        }, 1000); // 1 segundo de espera
     });
 </script>

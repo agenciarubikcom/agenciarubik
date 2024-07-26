@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         'comment' => isset($_POST['comment']) ? $_POST['comment'] : ''
     ];
 
-    $ch = curl_init('https://dash.agenciarubik.com/webform/view/666228ea562265.55701003');
+    $ch = curl_init('https://dash.agenciarubik.com/webform/submit/666228ea562265.55701003');
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($formData));

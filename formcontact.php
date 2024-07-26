@@ -17,6 +17,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     } else {
         $mensaje = translate('form-mensaje-error', $lang, $translations);
     }
+
+    // Redirigir a una URL intermedia que maneje el envío al iframe
+    header('Location: https://agenciarubik.com/send_to_iframe.php?' . http_build_query($formData));
+    exit();
 }
 ?>
 <iframe id="miIframe" width="650" height="900" src="https://dash.agenciarubik.com/webform/embed/666228ea562265.55701003" frameborder="0" allowfullscreen style="display:none;"></iframe>
@@ -51,40 +55,3 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             </div>
         </form>
 </div>
-
-<script>
-    document.getElementById('contactForm').addEventListener('submit', function(event) {
-        event.preventDefault(); // Prevenir el envío del formulario principal
-
-        const formData = new FormData(event.target);
-        const data = {
-            name: formData.get('name'),
-            email: formData.get('email'),
-            subject: formData.get('subject'),
-            comment: formData.get('comment')
-        };
-
-        // Crear un formulario oculto
-        const iframe = document.getElementById('miIframe');
-        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-
-        const hiddenForm = iframeDoc.createElement('form');
-        hiddenForm.style.display = 'none';
-        hiddenForm.method = 'POST';
-        hiddenForm.action = 'https://dash.agenciarubik.com/webform/submit/666228ea562265.55701003';
-
-        for (const key in data) {
-            const hiddenField = iframeDoc.createElement('input');
-            hiddenField.type = 'hidden';
-            hiddenField.name = key;
-            hiddenField.value = data[key];
-            hiddenForm.appendChild(hiddenField);
-        }
-
-        iframeDoc.body.appendChild(hiddenForm);
-        hiddenForm.submit();
-
-        // Opcionalmente, envía el formulario principal aquí si necesitas guardar datos localmente
-        event.target.submit();
-    });
-</script>

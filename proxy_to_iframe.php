@@ -1,10 +1,10 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $formData = [
-        'name' => isset($_POST['name']) ? $_POST['name'] : '',
-        'email' => isset($_POST['email']) ? $_POST['email'] : '',
-        'subject' => isset($_POST['subject']) ? $_POST['subject'] : '',
-        'comment' => isset($_POST['comment']) ? $_POST['comment'] : ''
+        'lead_firstname' => isset($_POST['name']) ? $_POST['name'] : '',
+        'lead_email' => isset($_POST['email']) ? $_POST['email'] : '',
+        'lead_custom_field_46' => isset($_POST['subject']) ? $_POST['subject'] : '',
+        'lead_custom_field_47' => isset($_POST['comment']) ? $_POST['comment'] : ''
     ];
 
     $ch = curl_init('https://dash.agenciarubik.com/webform/submit/666228ea562265.55701003');

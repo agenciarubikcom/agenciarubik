@@ -58,20 +58,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         const formData = new FormData(event.target);
         const data = {
-            lead_firstname: formData.get('name'),
-            lead_email: formData.get('email'),
-            lead_custom_field_46: formData.get('subject'),
-            lead_custom_field_47: formData.get('comment')
+            name: formData.get('name'),
+            email: formData.get('email'),
+            subject: formData.get('subject'),
+            comment: formData.get('comment')
         };
 
-        // Crear un formulario oculto en el iframe y enviar los datos
+        // Enviar datos al iframe utilizando postMessage
         const iframe = document.getElementById('miIframe');
-        const iframeWindow = iframe.contentWindow;
-
-        // Asegurarse de que el iframe esté completamente cargado antes de enviar los datos
-        iframe.onload = function() {
-            iframeWindow.postMessage(data, 'https://dash.agenciarubik.com');
-        };
+        iframe.contentWindow.postMessage(data, 'https://dash.agenciarubik.com');
 
         // Opcionalmente, envía el formulario principal aquí si necesitas guardar datos localmente
         event.target.submit();

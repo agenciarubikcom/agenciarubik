@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     }
 }
 ?>
-<iframe id="miIframe" width="650" height="900" src="https://dash.agenciarubik.com/webform/embed/666228ea562265.55701003" frameborder="0" allowfullscreen style="display:none;"></iframe>
+<iframe id="miIframe" width="650" height="900" src="https://dash.agenciarubik.com/webform/embed/666228ea562265.55701003" frameborder="0" allowfullscreen style="display:block;"></iframe>
 <div class="agenciarubik-form-wrap" id="contact">
     <h3><?php echo translate('btn-contact', $lang, $translations); ?></h3>
     <form id="contactForm" action="#contact" method="POST">

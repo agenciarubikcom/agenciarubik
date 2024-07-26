@@ -18,18 +18,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $mensaje = translate('form-mensaje-error', $lang, $translations);
     }
 
-    // Enviar datos al script de proxy
-    $ch = curl_init('https://agenciarubik.com/proxy_to_iframe.php');
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($formData));
-    $response = curl_exec($ch);
-    curl_close($ch);
-
-    if ($response === 'success') {
-        $mensaje = translate('form-mensaje-exito', $lang, $translations);
-    } else {
-        $mensaje = translate('form-mensaje-error', $lang, $translations);
-    }
+    // Redirigir a una URL intermedia que maneje el envío al iframe
+    header('Location: https://agenciarubik.com/send_to_iframe.php?' . http_build_query($formData));
+    exit();
 }
 ?>
 <iframe id="miIframe" width="650" height="900" src="https://dash.agenciarubik.com/webform/embed/666228ea562265.55701003" frameborder="0" allowfullscreen style="display:none;"></iframe>

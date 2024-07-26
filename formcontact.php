@@ -62,7 +62,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             email: formData.get('email'),
             subject: formData.get('subject'),
             comment: formData.get('comment'),
-            lastname: window.location.href // Añadir la URL actual como apellido
+            lastname: '- Sitio Web', // Añadir "Sitio Web" como apellido
+            url: window.location.href // Añadir la URL actual
         };
 
         // Enviar datos al iframe utilizando postMessage

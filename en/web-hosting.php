@@ -48,10 +48,10 @@ include 'nav.php';
             </div>
             <div class="agenciarubik-pricing-body">
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Up to 3 Domains</li>
-                <li><img src="../assets/images/v3/check.png" alt="">20 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Up to 30 Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Up to 3 Domains</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">20 GB SSD</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Up to 30 Emails</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Support via email 24/7</li>
                 <li><br></li>
                 <li><br></li>
               </ul>
@@ -74,12 +74,12 @@ include 'nav.php';
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Domains</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited SSD Space</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Dedicated IP</li>
-                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Unlimited Domains</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Unlimited SSD Space</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Unlimited Emails</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Dedicated IP</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">AutoBackup</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Support via email 24/7</li>
               </ul>
             </div>
           </div>
@@ -99,12 +99,12 @@ include 'nav.php';
             </div>
             <div class="agenciarubik-pricing-body">
               <ul>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Domains</li>
-                <li><img src="../assets/images/v3/check.png" alt="">50 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Unlimited Emails</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Dedicated IP</li>
-                <li><img src="../assets/images/v3/check.png" alt="">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" alt="">Support via email 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Unlimited Domains</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">50 GB SSD</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Unlimited Emails</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Dedicated IP</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">AutoBackup</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Support via email 24/7</li>
               </ul>
             </div>
           </div>
@@ -175,9 +175,9 @@ include 'nav.php';
             </tr>
             <tr>
               <td>Dedicated IP</td>
-              <td><img src="../assets/images/icon/minus.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/minus.svg" title="Check" alt="Check"></td>
+              <td><img src="../assets/images/icon/check.svg" title="Check" alt="Check"></td>
+              <td><img src="../assets/images/icon/check.svg" title="Check" alt="Check"></td>
             </tr>
             <tr>
               <td>Email accounts</td>
@@ -193,9 +193,9 @@ include 'nav.php';
             </tr>
             <tr>
               <td>Support via email 24/7</td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
-              <td><img src="../assets/images/icon/check.svg" alt=""></td>
+              <td><img src="../assets/images/icon/check.svg" title="Check" alt="Check"></td>
+              <td><img src="../assets/images/icon/check.svg" title="Check" alt="Check"></td>
+              <td><img src="../assets/images/icon/check.svg" title="Check" alt="Check"></td>
             </tr>
 
           </tbody>

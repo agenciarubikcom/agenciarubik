@@ -2,7 +2,7 @@
 $schema = [
   "@context" => "https://schema.org",
   "@type" => "WebPage",
-  "name" => $title = isset($URLTitleEN) ? $URLTitleES : 'Agencia Rubik',
+  "name" => $title = "https://agenciarubik.com/" . $URLTitleEN,
   "description" => $description = isset($Description) ? $Description : '',
   "publisher" => [
       "@type" => "Organization",

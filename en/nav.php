@@ -1,3 +1,20 @@
+<?php
+$schema = [
+  "@context" => "https://schema.org",
+  "@type" => "WebPage",
+  "name" => $title = isset($URLTitleEN) ? $URLTitleES : 'Agencia Rubik',
+  "description" => $description = isset($Description) ? $Description : '',
+  "publisher" => [
+      "@type" => "Organization",
+      "name" => "Agencia Rubik",
+      "logo" => [
+          "@type" => "ImageObject",
+          "url" => "https://agenciarubik.com/assets/images/logo.jpg"
+      ]
+  ]
+];
+echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
+?>
 <header class="site-header site-header--menu-center agenciarubik-header-section dark-bg white-menu" id="sticky-menu">
     <div class="container">
       <nav class="navbar site-navbar">

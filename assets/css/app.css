@@ -235,12 +235,6 @@ button:active, [type=button]:active, [type=reset]:active, [type=submit]:active, 
     page-break-after: avoid;
   }
 }
-ul, ol, li {
-  padding: 0px;
-  margin: 0px;
-  list-style: none;
-}
-
 button {
   display: inline-block;
   padding: 0px;

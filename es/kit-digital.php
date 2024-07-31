@@ -2,7 +2,7 @@
 $URLTitleES = "es/kit-digital";
 $URLTitleEN = "en/digital-kit";
 $URLLink = "es/kit-digital";
-$Description = "Descubre el Kit Digital: Todo lo que necesitas para establecer una presencia en línea profesional.";
+$Description = "Descubre el Kit Digital: Todo lo que necesitas para establecer una presencia en línea profesional";
 include '../header.php';
 include 'nav.php';
 ?>

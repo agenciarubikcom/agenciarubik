@@ -2822,7 +2822,7 @@ input[type=text], input[type=email], input[type=password], input[type=url], inpu
   margin: 0;
   border: none !important;
   border: 1px solid var(--light-color) !important;
-  border-radius: 10px;
+  border-radius: 5px;
   color: var(--body-color);
   background-color: var(--white-bg);
   -webkit-transition: all 0.4s;
@@ -2853,7 +2853,7 @@ input:focus {
 
 textarea {
   height: 150px;
-  border-radius: 20px;
+  border-radius: 5px;
   resize: none;
 }
 textarea:focus {

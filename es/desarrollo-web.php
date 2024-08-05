@@ -2,7 +2,7 @@
 $URLTitleES = "es/desarrollo-web";
 $URLTitleEN = "en/web-development";
 $URLLink = "es/desarrollo-web";
-$Description = "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO";
+$Description = "Servicios de desarrollo de sitios web a medida. Creamos soluciones personalizadas con tecnologías modernas, diseño responsivo y enfoque en seguridad, SEO y rendimiento.";
 include '../header.php';
 include 'nav.php';
 ?>

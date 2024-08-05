@@ -1,7 +1,7 @@
 <?php
 $schema = [
   "@context" => "https://schema.org",
-  "@type" => "WebPage",
+  "@type" => "Service",
   "name" => $title = "https://agenciarubik.com/" . $URLTitleEN,
   "description" => $description = isset($Description) ? $Description : '',
   "publisher" => [

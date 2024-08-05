@@ -53,7 +53,7 @@ include 'nav.php';
 
                         <div class="agenciarubik-iconbox-data data-small">
                             <span>Modern Technologies</span>
-                            <p>We use the latest technologies and development frameworks, including HTML5, CSS3, JavaScript, React, Angular, Vue.js, PHP, Laravel, Node.js, and many more. Our technological flexibility allows us to select the right tools for your project.</p>
+                            <p>We use the latest technologies and development frameworks, including HTML5, CSS3, JavaScript, C#, .NET, React, Angular, Vue.js, PHP, Laravel, Node.js, and many more. Our technological flexibility allows us to select the right tools for your project.</p>
                         </div>
                     </div>
 

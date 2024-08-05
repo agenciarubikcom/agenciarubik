@@ -6864,3 +6864,14 @@
   }
 
   /*1.4 themes css*/
+.text-align {
+  &-left {
+    text-align: left;
+  }
+  &-right {
+    text-align: right;
+  }
+  &-center {
+    text-align: center;
+  }
+}

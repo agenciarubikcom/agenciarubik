@@ -38,7 +38,7 @@ include 'nav.php';
 </div>
 
 <div class="container pt-5">
-    <div class="agenciarubik-section-title ">
+    <div class="agenciarubik-section-title">
         <h3>¿Qué es el Kit Digital?</h3>
         <p class="mt-5">Un paquete integral diseñado especialmente para aquellos que desean dar el salto al mundo digital sin complicaciones. Nuestro <b>Kit Digital</b> incluye todo lo que necesitas para establecer una presencia en línea profesional y atractiva, ¡y mucho más!<br><br>
 

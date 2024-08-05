@@ -34,7 +34,7 @@ include 'nav.php';
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div class="agenciarubik-default-content m-right-50 sticky">
+                <div class="agenciarubik-default-content m-right-50 sticky text-align-left">
                     <h2>Our services include:</h2>
                     <p>With extensive experience in various technologies, we are prepared to face any challenge and turn your ideas into an impressive digital presence.</p>
                 </div>
@@ -101,12 +101,12 @@ include 'nav.php';
     <div class="row">
         <div class="col-lg-5">
             <div class="agenciarubik-v3-thumb">
-                <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+                <img src="https://agenciarubik.com/assets/images/desarrollo-web.svg" title="Web Development" alt="Web Development">
 
             </div>
         </div>
         <div class="col-lg-7">
-            <div class="agenciarubik-default-content m-left">
+            <div class="agenciarubik-default-content m-left text-align-left">
                 <h2>Why choose us</h2>
                 <p><b>Experience and Professionalism</b>: With years of experience in the sector, our team is made up of highly qualified developers passionate about technology.<br><br>
 
@@ -124,7 +124,7 @@ include 'nav.php';
     <div class="row">
 
         <div class="col-lg-12">
-            <div class="agenciarubik-default-content">
+            <div class="agenciarubik-default-content text-align-left">
             <h2>Let's start today</h2>
                 <p>If you have an idea or project in mind, do not hesitate to contact us. We are here to listen to you, advise you and offer you a solution that perfectly suits your needs.</p>
             </div>

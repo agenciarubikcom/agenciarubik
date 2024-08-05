@@ -34,7 +34,7 @@ include 'nav.php';
     <div class="container">
         <div class="row">
             <div class="col-lg-7">
-                <div class="agenciarubik-default-content m-right-50 sticky">
+                <div class="agenciarubik-default-content m-right-50 sticky text-align-left">
                     <h2>Nuestros servicios incluyen:</h2>
                     <p>Con una amplia experiencia en diversas tecnologías, estamos preparados para afrontar cualquier desafío y convertir tus ideas en una presencia digital impresionante.</p>
                 </div>
@@ -101,12 +101,12 @@ include 'nav.php';
     <div class="row">
         <div class="col-lg-5">
             <div class="agenciarubik-v3-thumb">
-                <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+                <img src="https://agenciarubik.com/assets/images/desarrollo-web.svg" title="Desarrollo Web" alt="Desarrollo Web">
 
             </div>
         </div>
         <div class="col-lg-7">
-            <div class="agenciarubik-default-content m-left">
+            <div class="agenciarubik-default-content m-left text-align-left">
                 <h2>Por qué elegirnos</h2>
                 <p><b>Experiencia y Profesionalismo</b>: Con años de experiencia en el sector, nuestro equipo está compuesto por desarrolladores altamente calificados y apasionados por la tecnología.<br><br>
 
@@ -124,7 +124,7 @@ include 'nav.php';
     <div class="row">
 
         <div class="col-lg-12">
-            <div class="agenciarubik-default-content">
+            <div class="agenciarubik-default-content text-align-left">
                 <h2>Empecemos hoy mismo</h2>
                 <p>Si tienes una idea o proyecto en mente, no dudes en contactarnos. Estamos aquí para escucharte, asesorarte y ofrecerte una solución que se adapte perfectamente a tus necesidades.</p>
             </div>

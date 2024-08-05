@@ -135,7 +135,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                    <a href="web-developer">
+                    <a href="web-development">
                       <span class="menu-item-text"><?php echo translate('cat-desarrolloweb-title', $lang, $translations); ?></span>
                     </a>
                   </li>

@@ -30,7 +30,7 @@ return [
     "es_cat-leadspage-title" => "Leads Pages",
     "en_cat-leadspage-title" => "Leads Pages",
     "es_cat-desarrolloweb-title" => "Desarrollo Web",
-    "en_cat-desarrolloweb-title" => "Web Developer",
+    "en_cat-desarrolloweb-title" => "Web Development",
 
     /*Diseño*/
     "es_cat-rebranding-title" => "Re-Branding",

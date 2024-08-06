@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Páginas en inglés con su correspondiente versión en español -->
+    <url>
+        <loc>https://agenciarubik.com/en/email-marketing</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/email-marketing" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/email-marketing" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/seo</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/seo" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/seo" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/testing</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/testing" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/testing" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/graphic-design</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/diseno-grafico" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/graphic-design" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/landings-pages</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/landings-pages" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/landings-pages" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/web-development</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/desarrollo-web" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/web-development" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/web-hosting</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/alojamiento-web" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/web-hosting" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/domains</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/dominios" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/domains" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/en/digital-kit</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/kit-digital" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/digital-kit" />
+    </url>
+    <!-- Páginas únicamente en español -->
+    <url>
+        <loc>https://agenciarubik.com/es/soporte-wordpress</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/soporte-wordpress" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/support-wordpress" />
+    </url>
+    <url>
+        <loc>https://agenciarubik.com/es/manual-de-marca</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/manual-de-marca" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/brand-manual" />
+    </url>
+    <!-- Páginas base para cada idioma -->
+    <url>
+        <loc>https://agenciarubik.com/</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://agenciarubik.com/es/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://agenciarubik.com/en/" />
+    </url>
+</urlset>

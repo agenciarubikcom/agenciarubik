@@ -36,22 +36,18 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Lennon</h5>
+              <h5>Paquete Banners</h5>
             </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="60"></div>
-              <p class="dynamic-value" data-active="por año"></p>
-            </div>
+            
             <div class="agenciarubik-pricing-description">
-              <p>Ideal para quienes están comenzando su viaje en la web con creatividad y visión.<br><br></p>
+              <p>Optimiza la presencia visual de tu marca en la web con nuestro Paquete Banners, diseñado para captar la atención de tus clientes potenciales y aumentar tu visibilidad online.</p>
             </div>
             <div class="agenciarubik-pricing-body">
               <ul>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Hasta 3 Dominios</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">20 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Hasta 30 Mails</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Soporte vía mail 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 tamaños de banners</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño (JPG o GIF animado)</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades HTML5</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 revisiones</li>
                 <li><br></li>
                 <li><br></li>
               </ul>
@@ -61,25 +57,20 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap active">
             <div class="agenciarubik-pricing-header">
-              <h5>Jagger</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="95"></div>
-              <p class="dynamic-value" data-active="por año"></p>
+              <h5>Paquete RRSS</h5>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Perfecto para negocios en expansión que necesitan un servicio confiable y eficiente.<br><br></p>
+              <p>Impulsa tu presencia en redes sociales con nuestro Paquete RRSS. Perfecto para mantener tus perfiles activos y conectados con tu audiencia de manera constante y efectiva.</p>
             </div>
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Dominios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Espacio SSD Ilimitado</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Mails Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">IP dedicada</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Soporte vía mail 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">15 imágenes para posteos</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 reels para Instagram</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 video</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Copy sugerido</li>
+                <li></li>
+                <li></li>
               </ul>
             </div>
           </div>
@@ -87,25 +78,20 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>McCartney</h5>
-            </div>
-            <div class="agenciarubik-pricing-price">
-              <h2>$</h2>
-              <div class="agenciarubik-price dynamic-value" data-active="150"></div>
-              <p class="dynamic-value" data-active="por año"></p>
+              <h5>Paquete Híbrido</h5>
             </div>
             <div class="agenciarubik-pricing-description">
-              <p>Diseñado para aquellos que buscan la máxima confiabilidad y rendimiento profesional en su presencia en línea.</p>
+              <p>Consigue lo mejor de ambos mundos con nuestro Paquete Híbrido. Una solución completa que combina banners y contenido para redes sociales, ideal para una presencia digital integral y cohesiva.</p>
             </div>
             <div class="agenciarubik-pricing-body">
 
               <ul>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Dominios Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">50 GB SSD</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Mails Ilimitados</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">IP dedicada</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">AutoBackup</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Soporte vía mail 24/7</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">10 imágenes para posteos</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 tamaños de banners</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 creatividad HTML5</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">3 reels para Instagram</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 video</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Copy sugerido</li>
               </ul>
             </div>
           </div>

@@ -24,7 +24,7 @@ include 'nav.php';
     <div class="container">
         <div class="agenciarubik-section-title center">
             <h2 class="rt-mb-20">Tu solución de alojamiento web de confianza</h2>
-            <p>Entendemos que tu presencia en línea es crucial para el éxito de tu negocio. Por eso, hemos creado un servicio de alojamiento web de alta calidad diseñado para ofrecerte la mejor experiencia posible.<br><br><br></p>
+            <p>Entendemos que tu presencia en línea es crucial para el éxito de tu negocio. Por eso, hemos creado un servicio de alojamiento web de alta calidad diseñado para ofrecerte la mejor experiencia posible.</p>
         </div>
     </div>
 </div>
@@ -48,6 +48,7 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades HTML5</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 revisiones</li>
+                <li><br></li>
                 <li><br></li>
                 <li><br></li>
               </ul>

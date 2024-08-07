@@ -47,7 +47,7 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 tamaños de banners</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño (JPG o GIF animado)</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades HTML5</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 revisiones</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 revisiones</li>
                 <li><br></li>
                 <li><br></li>
               </ul>
@@ -69,8 +69,9 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 reels para Instagram</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 video</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Copy sugerido</li>
-                <li></li>
-                <li></li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 revisiones</li>
+                <li><br></li>
+                <li><br></li>
               </ul>
             </div>
           </div>
@@ -92,6 +93,7 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">3 reels para Instagram</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 video</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Copy sugerido</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">3 revisiones</li>
               </ul>
             </div>
           </div>

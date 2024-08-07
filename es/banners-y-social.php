@@ -129,7 +129,7 @@ include 'nav.php';
     </div> 
     <div class="col-lg-7">
         <div class="agenciarubik-section-title">
-            <h3>¿Cómo Funciona?</h4>
+            <h3>¿Cómo Funciona?</h3>
             <h4>Elige tu Paquete</h4><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
             <h4>Personalización</h4><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
             <h4>Revisiones</h4><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>

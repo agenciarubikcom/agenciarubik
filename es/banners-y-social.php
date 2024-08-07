@@ -45,7 +45,7 @@ include 'nav.php';
             <div class="agenciarubik-pricing-body">
               <ul>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 tamaños de banners</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño (JPG o GIF animado)</li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades HTML5</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 revisiones</li>
                 <li><br></li>
@@ -55,7 +55,7 @@ include 'nav.php';
           </div>
         </div>
         <div class="col-xl-4 col-md-6">
-          <div class="agenciarubik-pricing-wrap active">
+          <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h5>Paquete RRSS</h5>
             </div>

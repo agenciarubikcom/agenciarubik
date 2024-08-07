@@ -23,8 +23,8 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Tu solución de alojamiento web de confianza</h2>
-            <p>Entendemos que tu presencia en línea es crucial para el éxito de tu negocio. Por eso, hemos creado un servicio de alojamiento web de alta calidad diseñado para ofrecerte la mejor experiencia posible.</p>
+            <h2 class="rt-mb-20">¡Transforma tu presencia digital con nuestro servicio de diseño!</h2>
+            <p>Banners, redes sociales y más: Todo lo que necesitas para impactar a tu audiencia</p>
         </div>
     </div>
 </div>
@@ -108,10 +108,10 @@ include 'nav.php';
       <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">
           <div class="col-lg-7">
-            <h2>¡No Te Quedes con Dudas!</h2>
+            <h2>¿Por qué elegir nuestros paquetes de diseño?</h2>
           </div>
           <div class="col-lg-5 d-flex align-items-center">
-            <p>Sabemos que tomar una decisión sobre el alojamiento web es importante y queremos que te sientas completamente seguro. Por eso, nuestro equipo está siempre disponible para responder cualquier pregunta que puedas tener. No dudes en contactarnos antes de contratar. Queremos asegurarnos de que entiendas todas las características y beneficios de nuestros planes para que puedas tomar la mejor decisión para tu negocio.</p>
+            <p>En un mundo digital saturado, destacarse es esencial. Nuestros paquetes están diseñados para proporcionar a tu marca contenido visual de alta calidad que atrae, involucra y convierte. Desde banners animados hasta contenido atractivo para redes sociales, tenemos todo lo que necesitas para llevar tu presencia digital al siguiente nivel.</p>
           </div>
         </div>
       </div>
@@ -122,7 +122,11 @@ include 'nav.php';
   <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <p>Si necesitas información adicional o especificaciones más detalladas, no dudes en contactarnos.</p>
+            <h2>¿Cómo Funciona?</h2>
+            <h3>Elige tu Paquete</h3><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
+            <h3>Personalización</h3><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
+            <h3>Revisiones</h3><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>
+            <h3>Entrega</h3><p>Recibe tus banners y contenidos listos para usar.</p>
         </div>
     </div>
 </div>

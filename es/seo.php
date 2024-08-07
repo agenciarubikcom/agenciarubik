@@ -23,7 +23,7 @@ include 'nav.php';
 <div class="section agenciarubik-section-padding">
     <div class="container">
         <div class="agenciarubik-section-title center">
-            <h2 class="rt-mb-20">Eleva tu presencia en Línea con nuestro servicio de SEO</h2>
+            <h2 class="rt-mb-20">Eleva tu presencia en línea con nuestro servicio de SEO</h2>
             <p>En el vasto mundo digital de hoy, tener un sitio web es solo el primer paso.</p>
         </div>
     </div>

@@ -2,7 +2,7 @@
 $URLTitleES = "es/seo";
 $URLTitleEN = "en/seo";
 $URLLink = "es/seo";
-$Description = "Eleva Tu Presencia en Línea con Nuestro Servicio de SEO";
+$Description = "Eleva tu presencia en línea con nuestro servicio de SEO";
 include '../header.php';
 include 'nav.php';
 ?>
@@ -44,7 +44,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Auditoría SEO Completa</span>
+                            <h3>Auditoría SEO Completa</h3>
                             <p>Iniciamos con una auditoría detallada de tu sitio web para identificar áreas de mejora y oportunidades de optimización. Desde la estructura del sitio hasta la calidad del contenido, analizamos cada aspecto para asegurar que tu web esté totalmente optimizada para los motores de búsqueda.</p>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Investigación Avanzada de Palabras Clave</span>
+                            <h3>Investigación avanzada de palabras clave</h3>
                             <p>Utilizamos herramientas de investigación de última generación para identificar las palabras clave más relevantes y con mayor potencial para tu negocio. Esto nos permite optimizar tu contenido, metadatos y URLs, asegurando que tu sitio web atraiga a visitantes altamente interesados en tus productos o servicios.</p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Optimización On-Page</span>
+                            <h3>Optimización On-Page</h3>
                             <p>Mejoramos todos los aspectos internos de tu sitio web, incluyendo títulos, meta descripciones, estructura de URLs, imágenes y la calidad del contenido. Nuestro objetivo es no solo mejorar tu ranking en los resultados de búsqueda sino también ofrecer una experiencia de usuario excepcional que fomente la permanencia en el sitio y la conversión.</p>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Estrategias de Link Building de Alta Calidad</span>
+                            <h3>Estrategias de link building de alta calidad</h3>
                             <p>Desarrollamos una sólida estrategia de construcción de enlaces para aumentar la autoridad de tu sitio web. Al obtener enlaces de sitios web relevantes y de alta calidad, mejoramos tu visibilidad y posicionamiento en los motores de búsqueda, lo que se traduce en mayor tráfico y reconocimiento de marca.</p>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Contenido Optimizado y Valioso</span>
+                            <h3>Contenido optimizado y valioso</h3>
                             <p>Creación de contenido fresco, relevante y optimizado para SEO que resuene con tu audiencia y posicione tu sitio como una autoridad en tu nicho. Desde blogs hasta guías y estudios de caso, el contenido de calidad es fundamental para atraer y retener a tu audiencia.</p>
                         </div>
                     </div>
@@ -86,7 +86,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Mejora de la Velocidad y Experiencia del Usuario</span>
+                            <span>Mejora de la velocidad y experiencia del usuario</span>
                             <p>La velocidad de carga del sitio web y la experiencia del usuario son factores críticos para el SEO. Trabajamos para optimizar estos aspectos, asegurando que tu sitio web sea rápido, responsive y fácil de navegar en cualquier dispositivo.</p>
                         </div>
                     </div>

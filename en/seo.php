@@ -2,7 +2,7 @@
 $URLTitleES = "es/seo";
 $URLTitleEN = "en/seo";
 $URLLink = "en/seo";
-$Description = "Elevate Your Online Presence with Our SEO Service";
+$Description = "Elevate your online presence with our SEO service";
 include '../header.php';
 include 'nav.php';
 ?>
@@ -44,7 +44,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Complete SEO Audit</span>
+                            <h3>Complete SEO audit</h3>
                             <p>We start with a detailed audit of your website to identify areas for improvement and optimization opportunities. From site structure to content quality, we analyze every aspect to ensure your website is fully optimized for search engines.</p>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Advanced Keyword Research</span>
+                            <h3>Advanced keyword research</h3>
                             <p>We use cutting-edge research tools to identify the most relevant keywords with the greatest potential for your business. This allows us to optimize your content, metadata and URLs, ensuring that your website attracts visitors highly interested in your products or services.</p>
                         </div>
                     </div>
@@ -60,7 +60,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>On-Page Optimization</span>
+                            <h3>On-Page optimization</h3>
                             <p>We improve all the internal aspects of your website, including titles, meta descriptions, URL structure, images and content quality. Our goal is to not only improve your ranking in search results but also provide an exceptional user experience that encourages stay and conversion.</p>
                         </div>
                     </div>
@@ -68,7 +68,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>High Quality Link Building Strategies</span>
+                            <h3>High quality link building strategies</h3>
                             <p>We develop a solid link building strategy to increase the authority of your website. By obtaining links from relevant, high-quality websites, we improve your visibility and ranking in search engines, which translates into greater traffic and brand recognition.</p>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Optimized and Valuable Content</span>
+                            <h3>Optimized and Valuable Content</h3>
                             <p>Creating fresh, relevant, SEO-optimized content that resonates with your audience and positions your site as an authority in your niche. From blogs to guides to case studies, quality content is essential to attracting and retaining your audience.</p>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ include 'nav.php';
                     <div class="agenciarubik-iconbox-wrap-left mw-100">
 
                         <div class="agenciarubik-iconbox-data data-small">
-                            <span>Improved Speed ​​and User Experience</span>
+                            <h3>Improved speed ​​and user experience</h3>
                             <p>Website loading speed and user experience are critical factors for SEO. We work to optimize these aspects, ensuring that your website is fast, responsive and easy to navigate on any device.</p>
                         </div>
                     </div>

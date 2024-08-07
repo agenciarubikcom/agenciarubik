@@ -1,7 +1,7 @@
 <?php
 $URLTitleES = "es/pack-redes-sociales";
 $URLTitleEN = "en/social-media-pack";
-$URLLink = "es/pack-redes-sociales";
+$URLLink = "en/social-media-pack";
 $Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
 include '../header.php';
 include 'nav.php';
@@ -9,10 +9,10 @@ include 'nav.php';
 
 <div class="agenciarubik-breadcrumb">
     <div class="container">
-        <h1 class="post__title">Pack Redes Sociales</h1>
+        <h1 class="post__title">Banners and Social Networks</h1>
         <nav class="breadcrumbs">
             <ul>
-                <li aria-current="page">Diseño</li>
+                <li aria-current="page">Design</li>
             </ul>
         </nav>
 

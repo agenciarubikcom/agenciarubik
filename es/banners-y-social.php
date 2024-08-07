@@ -36,7 +36,7 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Paquete Banners</h5>
+              <h3>Paquete Banners</h3>
             </div>
             
             <div class="agenciarubik-pricing-description">
@@ -58,7 +58,7 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Paquete RRSS</h5>
+              <h3>Paquete RRSS</h3>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Impulsa tu presencia en redes sociales con nuestro Paquete RRSS. Perfecto para mantener tus perfiles activos y conectados con tu audiencia de manera constante y efectiva.</p>
@@ -80,7 +80,7 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h5>Paquete Híbrido</h5>
+              <h3>Paquete Híbrido</h3>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Consigue lo mejor de ambos mundos con nuestro Paquete Híbrido. Una solución completa que combina banners y contenido para redes sociales, ideal para una presencia digital integral y cohesiva.</p>
@@ -125,11 +125,11 @@ include 'nav.php';
     <div class="col-lg-5"></div> 
     <div class="col-lg-7">
         <div class="agenciarubik-section-title">
-            <h2>¿Cómo Funciona?</h2>
-            <h3>Elige tu Paquete</h3><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
-            <h3>Personalización</h3><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
-            <h3>Revisiones</h3><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>
-            <h3>Entrega</h3><p>Recibe tus banners y contenidos listos para usar.</p>
+            <h3>¿Cómo Funciona?</h4>
+            <h4>Elige tu Paquete</h4><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
+            <h4>Personalización</h4><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
+            <h4>Revisiones</h4><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>
+            <h4>Entrega</h4><p>Recibe tus banners y contenidos listos para usar.</p>
         </div>
         </div>
         </div> 

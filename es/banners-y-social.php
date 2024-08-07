@@ -121,13 +121,18 @@ include 'nav.php';
 
   <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+    <div class="row">
+    <div class="col-lg-5"></div> 
+    <div class="col-lg-7">
+        <div class="agenciarubik-section-title">
             <h2>¿Cómo Funciona?</h2>
             <h3>Elige tu Paquete</h3><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
             <h3>Personalización</h3><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
             <h3>Revisiones</h3><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>
             <h3>Entrega</h3><p>Recibe tus banners y contenidos listos para usar.</p>
         </div>
+        </div>
+        </div> 
     </div>
 </div>
 

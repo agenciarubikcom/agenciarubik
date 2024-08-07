@@ -861,7 +861,6 @@
 .nav-item-has-children a {
     display: flex;
     justify-content: space-between;
-    text-transform: capitalize;
 }
 
 .reveal-header {

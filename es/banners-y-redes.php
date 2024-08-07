@@ -1,13 +1,13 @@
 <?php
-$URLTitleES = "es/bannners-y-redes";
+$URLTitleES = "es/banners-y-redes";
 $URLTitleEN = "en/banners-and-social";
-$URLLink = "es/bannners-y-redes";
+$URLLink = "es/banners-y-redes";
 $Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
 include '../header.php';
 include 'nav.php';
 ?>
 
-<div class="agenciarubik-breadcrumb">
+<div class="agenciarubik-breadcrumb"> 
     <div class="container">
         <h1 class="post__title">Banners y Redes</h1>
         <nav class="breadcrumbs">

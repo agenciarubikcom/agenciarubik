@@ -1,7 +1,7 @@
 <?php
 $URLTitleES = "es/banners-y-redes";
 $URLTitleEN = "en/banners-and-social";
-$URLLink = "en/sbanners-and-social";
+$URLLink = "en/banners-and-social";
 $Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
 include '../header.php';
 include 'nav.php';

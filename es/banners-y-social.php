@@ -122,7 +122,11 @@ include 'nav.php';
   <div class="section mt-5">
     <div class="container">
     <div class="row">
-    <div class="col-lg-5"></div> 
+    <div class="col-lg-5">
+    <div class="agenciarubik-v3-thumb">
+        <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+    </div>
+    </div> 
     <div class="col-lg-7">
         <div class="agenciarubik-section-title">
             <h3>¿Cómo Funciona?</h4>

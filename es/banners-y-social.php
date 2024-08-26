@@ -2,12 +2,12 @@
 $URLTitleES = "es/banners-y-social";
 $URLTitleEN = "en/banners-and-social";
 $URLLink = "es/banners-y-social";
-$Description = "Ofrecemos planes flexibles, seguridad robusta y soporte técnico 24/7. ¡No te quedes con dudas! Contáctanos y elige el mejor plan para tu sitio.";
+$Description = "Transforma tu presencia digital con nuestro diseño de banners y gestión de redes sociales. Impacta a tu audiencia con soluciones creativas y efectivas.";
 include '../header.php';
 include 'nav.php';
 ?>
 
-<div class="agenciarubik-breadcrumb"> 
+<div class="agenciarubik-breadcrumb">
     <div class="container">
         <h1 class="post__title">Banners y Redes</h1>
         <nav class="breadcrumbs">
@@ -36,9 +36,9 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h3>Paquete Banners</h3>
+              <h3>Pack Banners</h3>
             </div>
-            
+
             <div class="agenciarubik-pricing-description">
               <p>Optimiza la presencia visual de tu marca en la web con nuestro Paquete Banners, diseñado para captar la atención de tus clientes potenciales y aumentar tu visibilidad online.</p>
             </div>
@@ -58,7 +58,7 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h3>Paquete RRSS</h3>
+              <h3>Pack RRSS</h3>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Impulsa tu presencia en redes sociales con nuestro Paquete RRSS. Perfecto para mantener tus perfiles activos y conectados con tu audiencia de manera constante y efectiva.</p>
@@ -80,7 +80,7 @@ include 'nav.php';
         <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
-              <h3>Paquete Híbrido</h3>
+              <h3>Pack Híbrido</h3>
             </div>
             <div class="agenciarubik-pricing-description">
               <p>Consigue lo mejor de ambos mundos con nuestro Paquete Híbrido. Una solución completa que combina banners y contenido para redes sociales, ideal para una presencia digital integral y cohesiva.</p>
@@ -126,17 +126,17 @@ include 'nav.php';
     <div class="agenciarubik-v3-thumb">
         <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
     </div>
-    </div> 
+    </div>
     <div class="col-lg-7">
         <div class="agenciarubik-section-title">
-            <h3>¿Cómo Funciona?</h3>
+            <h3>¿Cómo Funciona?</h3><br>
             <h4>Elige tu Paquete</h4><p>Selecciona el paquete que mejor se adapte a tus necesidades.</p>
             <h4>Personalización</h4><p>Nuestro equipo trabajará contigo para personalizar cada elemento.</p>
             <h4>Revisiones</h4><p>Realizamos las revisiones necesarias para asegurarnos de que estés 100% satisfecho.</p>
             <h4>Entrega</h4><p>Recibe tus banners y contenidos listos para usar.</p>
         </div>
         </div>
-        </div> 
+        </div>
     </div>
 </div>
 

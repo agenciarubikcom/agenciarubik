@@ -1,7 +1,7 @@
 <?php
-$URLTitleES = "es/banners-y-redes";
-$URLTitleEN = "en/banners-and-networks";
-$URLLink = "en/banners-and-networks";
+$URLTitleES = "es/banners-y-redes-sociales";
+$URLTitleEN = "en/banners-and-social-networks";
+$URLLink = "en/banners-and-social-networks";
 $Description = "Transform your digital presence with our banner design and social media management. Impact your audience with creative and effective solutions.";
 include '../header.php';
 include 'nav.php';

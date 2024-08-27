@@ -100,7 +100,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                     </a>
                   </li>
                   <li class="sub-menu--item">
-                  <a href="banners-and-networks">
+                  <a href="banners-and-social-networks">
                       <span class="menu-item-text"><?php echo translate('cat-bannersysocial-title', $lang, $translations); ?></span>
                     </a>
                   </li>

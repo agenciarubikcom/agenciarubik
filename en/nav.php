@@ -60,7 +60,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-soporte-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
                 <ul class="sub-menu" id="submenu-1">
                 <li class="sub-menu--item">
-                    <a href="wordpress-support">
+                    <a href="support-wordpress">
                       <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
                     </a>
                   </li>

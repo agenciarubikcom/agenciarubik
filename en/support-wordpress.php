@@ -86,10 +86,10 @@ include 'nav.php';
 </div>
 
 <div class="container mb-5">
-    <div class="row">
+<div class="row d-flex align-items-center">
         <div class="col-lg-5">
             <div class="agenciarubik-v3-thumb">
-                <img src="https://agenciarubik.com/assets/images/soporte-wordpress.svg" title="Soporte WordPress" alt="Soporte WordPress">
+                <img src="https://agenciarubik.com/assets/images/soporte-wordpress.svg" title="Support WordPress" alt="Support WordPress">
 
             </div>
         </div>

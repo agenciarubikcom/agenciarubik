@@ -33,7 +33,7 @@
                 .then(response => response.json())
                 .then(data => {
                     // Lista de países permitidos
-                    var allowedCountries = ["VE", "BR", "CL", "PE", "AR", "EC", "CO", "US"];
+                    var allowedCountries = ["VE", "BR", "CL", "PE", "AR", "EC", "CO", "US", "UY"];
 
                     // Comprobar si el país está en la lista de permitidos
                     if (allowedCountries.includes(data.country)) {

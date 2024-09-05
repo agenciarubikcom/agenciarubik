@@ -25,6 +25,27 @@
     <link rel="canonical" href="https://agenciarubik.com/<?php echo isset($URLLink) ? $URLLink : 'https://agenciarubik.com/'; ?>"/>
     </head>
 
+    <script>
+  $(document).ready(function() {
+    $.get("https://ipinfo.io?token=836d47664a56eb", function(response) {
+      // Lista de países permitidos
+      var allowedCountries = ["VE", "BR", "CL", "PE", "AR", "EC", "CO", "US"];
+
+      // Validar si el país del visitante está en la lista
+      if (allowedCountries.includes(response.country)) {
+        // Ejecutar el script que deseas mostrar para estos países
+        console.log("El visitante está en un país permitido: " + response.country);
+
+        // Aquí puedes incluir tu código o script a ejecutar
+        // Ejemplo: Mostrar un elemento en la página
+        $('#yourElement').show();
+      } else {
+        console.log("El visitante no está en un país permitido: " + response.country);
+      }
+    }, "jsonp");
+  });
+</script>
+
 <body class="light">
     <div class="agenciarubik-preloader-wrap">
         <div class="agenciarubik-preloader">

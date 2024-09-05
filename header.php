@@ -25,29 +25,30 @@
     <link rel="canonical" href="https://agenciarubik.com/<?php echo isset($URLLink) ? $URLLink : 'https://agenciarubik.com/'; ?>"/>
     </head>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
+    <div id="yourElement" style="display:none;">HOLA</div>
     <script>
-  $(document).ready(function() {
-    $.get("https://ipinfo.io?token=836d47664a56eb", function(response) {
-      // Lista de países permitidos
-      var allowedCountries = ["VE", "BR", "CL", "PE", "AR", "EC", "CO", "US"];
+        document.addEventListener("DOMContentLoaded", function() {
+            // Hacer una solicitud a ipinfo.io para obtener la información de IP
+            fetch("https://ipinfo.io?token=836d47664a56eb")
+                .then(response => response.json())
+                .then(data => {
+                    // Lista de países permitidos
+                    var allowedCountries = ["VE", "BR", "CL", "PE", "AR", "EC", "CO", "US"];
 
-      // Validar si el país del visitante está en la lista
-      if (allowedCountries.includes(response.country)) {
-        // Ejecutar el script que deseas mostrar para estos países
-        console.log("El visitante está en un país permitido: " + response.country);
+                    // Comprobar si el país está en la lista de permitidos
+                    if (allowedCountries.includes(data.country)) {
+                        console.log("El visitante está en un país permitido: " + data.country);
+                        // Mostrar el div si está permitido
+                        document.getElementById("yourElement").style.display = "block";
+                    } else {
+                        console.log("El visitante no está en un país permitido: " + data.country);
+                    }
+                })
+                .catch(error => console.error('Error al obtener la geolocalización:', error));
+        });
+    </script>
 
-        // Aquí puedes incluir tu código o script a ejecutar
-        // Ejemplo: Mostrar un elemento en la página
-        $('#yourElement').show();
-      } else {
-        console.log("El visitante no está en un país permitido: " + response.country);
-      }
-    }, "jsonp");
-  });
-</script>
 
-<div id="yourElement">HOLA</div>
 
 <body class="light">
     <div class="agenciarubik-preloader-wrap">

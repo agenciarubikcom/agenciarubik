@@ -46,6 +46,8 @@
   });
 </script>
 
+<div id="yourElement">HOLA</div>
+
 <body class="light">
     <div class="agenciarubik-preloader-wrap">
         <div class="agenciarubik-preloader">

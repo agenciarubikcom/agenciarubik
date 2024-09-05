@@ -24,6 +24,7 @@
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/<?php echo isset($URLTitleEN) ? $URLTitleEN : 'Agencia Rubik'; ?>" />
     <link rel="canonical" href="https://agenciarubik.com/<?php echo isset($URLLink) ? $URLLink : 'https://agenciarubik.com/'; ?>"/>
     </head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
   $(document).ready(function() {

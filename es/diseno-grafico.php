@@ -18,25 +18,56 @@ include 'nav.php';
 </div>
 
 <div class="section agenciarubik-section-padding2">
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-lg-6">
-      <div class="agenciarubik-v3-thumb p-5">
-        <img src="https://agenciarubik.com/assets/images/diseno-grafico.svg" title="Diseño Gráfico" alt="Diseño Gráfico">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="agenciarubik-v3-thumb p-5">
+          <img src="https://agenciarubik.com/assets/images/diseno-grafico.svg" title="Diseño Gráfico" alt="Diseño Gráfico">
+        </div>
       </div>
-    </div>
-    <div class="col-lg-6">
-      <div class="agenciarubik-default-content m-left">
-      <h2 class="rt-mb-20">Desata el poder del diseño gráfico en tu negocio</h2>
-      <p>En el dinámico mundo del marketing visual, el diseño gráfico juega un papel fundamental en cómo tu marca se comunica y se percibe. Desde la primera impresión hasta la interacción continua, cada punto de contacto es una oportunidad para contar tu historia de manera impactante.</p>
-      <p>Nuestro servicio de diseño gráfico está aquí para asegurar que cada elemento visual de tu marca no solo capture la atención sino que también comunique eficazmente tu mensaje. Aquí te mostramos cómo podemos ayudarte a sobresalir.</p>
+      <div class="col-lg-6">
+        <div class="agenciarubik-default-content m-left">
+          <h2 class="rt-mb-20">Desata el poder del diseño gráfico en tu negocio</h2>
+          <p>En el dinámico mundo del marketing visual, el diseño gráfico juega un papel fundamental en cómo tu marca se comunica y se percibe. Desde la primera impresión hasta la interacción continua, cada punto de contacto es una oportunidad para contar tu historia de manera impactante.</p>
+          <p>Nuestro servicio de diseño gráfico está aquí para asegurar que cada elemento visual de tu marca no solo capture la atención sino que también comunique eficazmente tu mensaje. Aquí te mostramos cómo podemos ayudarte a sobresalir.</p>
+        </div>
       </div>
-    </div>
 
+    </div>
   </div>
 </div>
-</div>
+
 <div class="section agenciarubik-section-padding2">
+  <div class="container">
+    <div class="agenciarubik-section-title agenciarubik-two-column-title">
+      <div class="row">
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about1.png" alt="">
+          </div>
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about1.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about3.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about4.png" alt="">
+          </div>
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about5.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
   <div class="container">
     <div class="agenciarubik-section-title center w-large">
       <h2>Transforma tu visión en realidad visual</h2>

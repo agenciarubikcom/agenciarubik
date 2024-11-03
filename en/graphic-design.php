@@ -39,6 +39,36 @@ include 'nav.php';
 </div>
 <div class="section agenciarubik-section-padding2">
   <div class="container">
+    <div class="agenciarubik-section-title agenciarubik-two-column-title">
+      <div class="row">
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about1.png" alt="">
+          </div>
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about1.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about3.png" alt="">
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-4">
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about4.png" alt="">
+          </div>
+          <div class="agenciarubik-about-thumb">
+            <img src="../assets/images/about/about5.png" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
     <div class="agenciarubik-section-title center w-large">
       <h2>Transform your vision into visual reality</h2>
       <p class="mt-5">Our graphic design service is more than just creating beautiful images; It's about communicating your story, values ​​and vision in a way that resonates with your audience. Whether it's revitalizing your brand image with a new logo, capturing attention with impactful signage, or engaging your social media followers with engaging visual content, we're here to help you make a bold statement in the marketplace.</p>

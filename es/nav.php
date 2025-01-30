@@ -58,7 +58,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
               </li>
               <li class="nav-item nav-item-has-children">
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-soporte-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-1">
+                <ul class="sub-menu" id="submenu-2">
                 <li class="sub-menu--item">
                     <a href="soporte-wordpress">
                       <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>
@@ -88,7 +88,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
               </li>
               <li class="nav-item nav-item-has-children">
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-diseno-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-1">
+                <ul class="sub-menu" id="submenu-3">
                   <li class="sub-menu--item">
                     <a href="re-branding">
                       <span class="menu-item-text"><?php echo translate('cat-rebranding-title', $lang, $translations); ?></span>
@@ -118,7 +118,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
               </li>
               <li class="nav-item nav-item-has-children">
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-desarrollo-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-1">
+                <ul class="sub-menu" id="submenu-4">
                   <li class="sub-menu--item">
                     <a href="landings-pages">
                       <span class="menu-item-text"><?php echo translate('cat-landingpage-title', $lang, $translations); ?></span>
@@ -144,7 +144,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
 
               <li class="nav-item nav-item-has-children">
                 <a href="#" class="nav-link-item drop-trigger"><?php echo translate('cat-productos-title', $lang, $translations); ?> <i class="fas fa-angle-down"></i></a>
-                <ul class="sub-menu" id="submenu-1">
+                <ul class="sub-menu" id="submenu-5">
                   <li class="sub-menu--item">
                     <a href="alojamiento-web">
                       <span class="menu-item-text"><?php echo translate('cat-hosting-title', $lang, $translations); ?></span>

@@ -119,7 +119,7 @@ include 'nav.php';
       <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">
           <div class="col-lg-7">
-            <h2>¡No Te Quedes con Dudas!</h2>
+            <h2>¡No te quedes con dudas!</h2>
           </div>
           <div class="col-lg-5 d-flex align-items-center">
             <p>Sabemos que tomar una decisión sobre el alojamiento web es importante y queremos que te sientas completamente seguro. Por eso, nuestro equipo está siempre disponible para responder cualquier pregunta que puedas tener. No dudes en contactarnos antes de contratar. Queremos asegurarnos de que entiendas todas las características y beneficios de nuestros planes para que puedas tomar la mejor decisión para tu negocio.</p>

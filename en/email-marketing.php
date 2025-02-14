@@ -72,7 +72,7 @@ include 'nav.php';
 </div>
 
 <div class="container pt-5">
-      <div class="agenciarubik-section-title center">
+      <div class="agenciarubik-section-title">
         <h2>Transform your email marketing strategy today</h2>
         <p class="mt-5">With our Email Marketing service, you have the guarantee of not only reaching your audience, but also having a significant impact, promoting conversion and loyalty. Whether you're launching a new product, building customer loyalty, or looking to increase your sales, we're here to help you achieve your marketing goals with strategies that deliver results.<br><br>Contact us to start creating campaigns that leave their mark and lead to the success of your business.
         </p>

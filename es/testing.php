@@ -30,7 +30,7 @@ include 'nav.php';
     </div>
     <div class="col-lg-6">
       <div class="agenciarubik-v3-thumb p-5">
-        <img src="https://agenciarubik.com/assets/images/testing.svg" title="Testing" alt="Testing">
+        <img src="/assets/images/testing.svg" title="Testing" alt="Testing">
       </div>
     </div>
 

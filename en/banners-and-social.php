@@ -1,7 +1,7 @@
 <?php
-$URLTitleES = "es/banners-y-redes-sociales";
-$URLTitleEN = "en/banners-and-social-networks";
-$URLLink = "en/banners-and-social-networks";
+$URLTitleES = "es/banners-y-redes";
+$URLTitleEN = "en/banners-and-social";
+$URLLink = "en/banners-and-social";
 $Description = "Transform your digital presence with our banner design and social media management. Impact your audience with creative and effective solutions.";
 include '../header.php';
 include 'nav.php';
@@ -122,7 +122,7 @@ include 'nav.php';
     <div class="row d-flex align-items-center">
       <div class="col-lg-5">
         <div class="agenciarubik-v3-thumb">
-          <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+          <img src="https://agenciarubik.com/assets/images/banners-y-redes.svg" title="Banners and Social Networks" alt="Banners and Social Networks">
         </div>
       </div>
       <div class="col-lg-7">

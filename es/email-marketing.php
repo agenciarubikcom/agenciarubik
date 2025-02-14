@@ -73,8 +73,8 @@ include 'nav.php';
 </div>
 
 <div class="container pt-5">
-  <div class="agenciarubik-section-title center">
-    <h2>Transforma Tu estrategia de email marketing hoy</h2>
+  <div class="agenciarubik-section-title ">
+    <h2>Transforma tu estrategia de email marketing hoy</h2>
     <p class="mt-5">Con nuestro servicio de Email Marketing, tienes la garantía de no solo alcanzar a tu audiencia, sino de impactar de manera significativa, fomentando la conversión y fidelización. Ya sea que estés lanzando un nuevo producto, fomentando la lealtad del cliente o buscando aumentar tus ventas, estamos aquí para ayudarte a lograr tus objetivos de marketing con estrategias que entregan resultados.<br><br>Contacta con nosotros para comenzar a crear campañas que dejan huella y conducen al éxito de tu negocio.
     </p>
   </div>
@@ -89,7 +89,5 @@ include 'nav.php';
     </div>
   </div>
 </div>
-<!-- End section -->
-
 
 <?php include "../footer.php" ?>

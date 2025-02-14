@@ -1,7 +1,7 @@
 <?php
-$URLTitleES = "es/banners-y-redes-sociales";
+$URLTitleES = "es/banners-y-redes";
 $URLTitleEN = "en/banners-and-social-networks";
-$URLLink = "es/banners-y-redes-sociales";
+$URLLink = "es/banners-y-redes";
 $Description = "Transforma tu presencia digital con nuestro diseño de banners y gestión de redes sociales. Impacta a tu audiencia con soluciones creativas y efectivas.";
 include '../header.php';
 include 'nav.php';
@@ -9,7 +9,7 @@ include 'nav.php';
 
 <div class="agenciarubik-breadcrumb">
     <div class="container">
-        <h1 class="post__title">Banners y Redes Sociales</h1>
+        <h1 class="post__title">Banners y Redes</h1>
         <nav class="breadcrumbs">
             <ul>
                 <li aria-current="page">Diseño</li>
@@ -124,7 +124,7 @@ include 'nav.php';
     <div class="row d-flex align-items-center">
     <div class="col-lg-5">
     <div class="agenciarubik-v3-thumb">
-        <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+        <img src="https://agenciarubik.com/assets/images/banners-y-redes.svg" title="Banners y Redes" alt="Banners y Redes">
     </div>
     </div>
     <div class="col-lg-7">

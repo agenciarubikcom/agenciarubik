@@ -15,10 +15,8 @@ include 'nav.php';
                 <li aria-current="page">Desarrollo</li>
             </ul>
         </nav>
-
     </div>
 </div>
-<!-- End breadcrumb -->
 
 <div class="section agenciarubik-section-padding">
     <div class="container">
@@ -28,7 +26,6 @@ include 'nav.php';
         </div>
     </div>
 </div>
-<!-- End section -->
 
 <div class="section agenciarubik-section-padding5">
     <div class="container">

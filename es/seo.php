@@ -101,7 +101,7 @@ include 'nav.php';
     <div class="row">
         <div class="col-lg-5">
             <div class="agenciarubik-v3-thumb">
-                <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+                <img src="/assets/images/seo.svg" title="SEO" alt="SEO">
 
             </div>
         </div>

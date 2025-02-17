@@ -23,6 +23,19 @@
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/<?php echo isset($URLTitleES) ? $URLTitleES : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/<?php echo isset($URLTitleEN) ? $URLTitleEN : 'Agencia Rubik'; ?>" />
     <link rel="canonical" href="https://agenciarubik.com/<?php echo isset($URLLink) ? $URLLink : 'https://agenciarubik.com/'; ?>"/>
+    <meta property="og:title" content="Agencia Rubik">
+    <meta property="og:description" content="Creamos experiencias digitales únicas con diseño y desarrollo web profesional. Potencia tu presencia en línea con Agencia Rubik.">
+    <meta property="og:image" content="https://agenciarubik.com/assets/images/rrss.png">
+    <meta property="og:url" content="https://agenciarubik.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Agencia Rubik">
+    <meta property="og:locale" content="es_ES">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Agencia Rubik">
+    <meta name="twitter:description" content="Creamos experiencias digitales únicas con diseño y desarrollo web profesional. Potencia tu presencia en línea con Agencia Rubik.">
+    <meta name="twitter:image" content="https://agenciarubik.com/assets/images/rrss.png">
+    <meta name="twitter:url" content="https://agenciarubik.com/">
+
     </head>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 

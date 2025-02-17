@@ -35,7 +35,6 @@ include 'nav.php';
         <img src="https://agenciarubik.com/assets/images/manual-de-marca.svg" title="Manual de Marca" alt="Manual de Marca">
       </div>
     </div>
-
   </div>
 </div>
 </div>

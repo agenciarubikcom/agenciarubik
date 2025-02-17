@@ -69,16 +69,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                       <span class="menu-item-text"><?php echo translate('cat-servidoresaws-title', $lang, $translations); ?></span>
                     </a>
                   </li>
-                  <li class="sub-menu--item">
-                    <a href="uxui-support">
-                      <span class="menu-item-text"><?php echo translate('cat-uxui-title', $lang, $translations); ?></span>
-                    </a>
-                  </li>
-                  <li class="sub-menu--item">
-                    <a href="web-audit">
-                      <span class="menu-item-text"><?php echo translate('cat-auditoriaweb-title', $lang, $translations); ?></span>
-                    </a>
-                  </li>
+                  
                   <li class="sub-menu--item">
                     <a href="testing">
                       <span class="menu-item-text"><?php echo translate('cat-testing-title', $lang, $translations); ?></span>
@@ -109,11 +100,7 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                       <span class="menu-item-text"><?php echo translate('cat-disenografico-title', $lang, $translations); ?></span>
                     </a>
                   </li>
-                  <li class="sub-menu--item">
-                    <a href="interfaces-uxui">
-                      <span class="menu-item-text"><?php echo translate('cat-interfaceuxiu-title', $lang, $translations); ?></span>
-                    </a>
-                  </li>
+                  
                 </ul>
               </li>
               <li class="nav-item nav-item-has-children">

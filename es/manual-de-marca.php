@@ -22,7 +22,7 @@ include 'nav.php';
 <div class="container">
   <div class="row align-items-center">
   <div class="col-lg-12">
-      <div class="agenciarubik-section-title center w-large">
+      <div class="agenciarubik-section-title w-large">
       <h2 class="rt-mb-20">Transforma tu identidad con nuestro diseño creativo</h2>
       <p>En el corazón de cada negocio exitoso se encuentra una marca distintiva y memorable. Nuestro servicio de diseño de Manual de Marca no solo captura la esencia de tu empresa, sino que también la eleva, proporcionándole las herramientas necesarias para comunicar tu identidad de manera coherente y profesional.</p>
       </div>

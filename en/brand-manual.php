@@ -22,7 +22,7 @@ include 'nav.php';
 <div class="container">
   <div class="row align-items-center">
   <div class="col-lg-12">
-      <div class="agenciarubik-section-title center w-large">
+      <div class="agenciarubik-section-title w-large">
       <h2 class="rt-mb-20">Transform your identity with our creative design</h2>
       <p>At the heart of every successful business is a distinctive and memorable brand. Our Brand Manual design service not only captures the essence of your company, but also elevates it, providing you with the necessary tools to communicate your identity in a consistent and professional manner.</p>
       </div>

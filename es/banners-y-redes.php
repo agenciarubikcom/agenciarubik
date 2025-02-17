@@ -22,7 +22,7 @@ include 'nav.php';
 
 <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title ">
             <h2 class="rt-mb-20">¡Transforma tu presencia digital con nuestro servicio de diseño!</h2>
             <p>Banners, redes sociales y más: Todo lo que necesitas para impactar a tu audiencia</p>
         </div>

@@ -95,7 +95,7 @@ include 'nav.php';
 </div>
 
 <div class="container mb-5">
-    <div class="row">
+    <div class="row align-items-center">
         <div class="col-lg-5">
             <div class="agenciarubik-v3-thumb">
                 <img src="https://agenciarubik.com/assets/images/desarrollo-web.svg" title="Desarrollo Web" alt="Desarrollo Web">

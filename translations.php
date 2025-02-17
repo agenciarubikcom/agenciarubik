@@ -33,8 +33,8 @@ return [
     "en_cat-desarrolloweb-title" => "Web Development",
 
     /*Diseño*/
-    "es_cat-rebranding-title" => "Re-Branding",
-    "en_cat-rebranding-title" => "Re-Branding",
+    "es_cat-rebranding-title" => "Rebranding",
+    "en_cat-rebranding-title" => "Rebranding",
     "es_cat-manualdemarca-title" => "Manual de Marca",
     "en_cat-manualdemarca-title" => "Brand Manual",
     "es_cat-bannersysocial-title" => "Banners y Redes",

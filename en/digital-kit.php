@@ -28,7 +28,7 @@ include 'nav.php';
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="agenciarubik-v3-thumb p-5">
+                <div class="agenciarubik-v3-thumb py-2">
                     <p>Are you an entrepreneur or a small business without an online presence? Are you looking for an easy and effective way to take your business to the next level? We have the perfect solution for you!</p>
                 </div>
             </div>

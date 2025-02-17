@@ -22,7 +22,7 @@ include 'nav.php';
 
 <div class="section agenciarubik-section-padding">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title ">
             <h2 class="rt-mb-20">Eleva tu presencia en línea con nuestro servicio de SEO</h2>
             <p>En el vasto mundo digital de hoy, tener un sitio web es solo el primer paso.</p>
         </div>
@@ -99,7 +99,7 @@ include 'nav.php';
 
 <div class="container mb-5">
     <div class="row">
-        <div class="col-lg-5">
+        <div class="col-lg-5 p-5">
             <div class="agenciarubik-v3-thumb">
                 <img src="/assets/images/seo.svg" title="SEO" alt="SEO">
 

@@ -39,7 +39,7 @@ include 'nav.php';
 </div>
 <div class="section agenciarubik-section-padding2">
   <div class="container">
-    <div class="agenciarubik-section-title center w-large">
+    <div class="agenciarubik-section-title w-large">
       <h2>¿Cómo lo hacemos?</h2>
     </div>
     <div class="agenciarubik-team-skill-wrap">

@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/animate.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/main.css">
-    <link rel="stylesheet" href="https://agenciarubik.com/assets/css/app.css">
+    <link rel="stylesheet" href="/assets/css/app.css">
     <meta name="description" content="<?php echo isset($Description) ? $Description : 'Estamos en pleno proceso de renovación de nuestro sitio web. Queremos brindarte una experiencia más rápida, moderna y amigable.<br><br>
     Durante este tiempo, seguimos disponibles para cualquier consulta o asistencia que necesites. No dudes en contactarnos.'; ?>">
     <link rel="shortcut icon" href="https://agenciarubik.com/assets/images/favicon.ico" type="image/x-icon">

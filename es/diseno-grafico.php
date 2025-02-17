@@ -37,39 +37,37 @@ include 'nav.php';
   </div>
 </div>
 
-<div class="section agenciarubik-section-padding2">
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+<div class="section agenciarubik-section-padding2 pb-5">
   <div class="container">
-    <div class="agenciarubik-section-title agenciarubik-two-column-title">
-      <div class="row">
-        <div class="col-lg-4 col-md-4">
-          <div class="agenciarubik-about-thumb">
-            <img src="../assets/images/about/about1.png" alt="">
-          </div>
-          <div class="agenciarubik-about-thumb">
-            <img src="../assets/images/about/about1.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4">
-          <div class="agenciarubik-about-thumb">
-            <img src="../assets/images/about/about3.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-4">
-          <div class="agenciarubik-about-thumb">
-            <img src="../assets/images/about/about4.png" alt="">
-          </div>
-          <div class="agenciarubik-about-thumb">
-            <img src="../assets/images/about/about5.png" alt="">
-          </div>
-        </div>
-      </div>
+
+
+
+    <div class="grid">
+        <div class="grid-item"><img src="/assets/images/example1.png" alt="Manual de Marca"></div>
+        <div class="grid-item"><img src="/assets/images/example2.png" alt="Manual de Marca"></div>
+        <div class="grid-item"><img src="/assets/images/example3.png" alt="Manual de Marca"></div>
+        <div class="grid-item"><img src="/assets/images/example5.png" alt="Manual de Marca"></div>
+        <div class="grid-item"><img src="/assets/images/example4.png" alt="Manual de Marca"></div>
+        <div class="grid-item"><img src="/assets/images/example6.png" alt="Manual de Marca"></div>
     </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            new Masonry(".grid", {
+                itemSelector: ".grid-item",
+                columnWidth: ".grid-item",
+                percentPosition: true
+            });
+        });
+    </script>
   </div>
 </div>
 
 <div class="section">
   <div class="container">
-    <div class="agenciarubik-section-title center w-large">
+    <div class="agenciarubik-section-title w-large">
       <h2>Transforma tu visión en realidad visual</h2>
       <p class="mt-5">Nuestro servicio de diseño gráfico es más que solo crear imágenes bonitas; se trata de comunicar tu historia, valores y visión de una manera que resuene con tu audiencia. Ya sea revitalizando tu imagen de marca con un nuevo logotipo, capturando la atención con cartelería impactante o enganchando a tus seguidores en redes sociales con contenido visual atractivo, estamos aquí para ayudarte a hacer una declaración audaz en el mercado.</p>
     </div>

@@ -262,6 +262,7 @@ h2, .h2 {
 }
 @media (max-width: 767px) {
   h2, .h2 {
+    margin-bottom: 20px;
     font-size: 48px;
   }
 }
@@ -4088,9 +4089,9 @@ span.agenciarubik-title-shape {
   margin-bottom: 40px;
 }
 .agenciarubik-pricing-body ul {
-  list-style: none;
   padding: 0;
   margin: 0;
+  list-style: none;
 }
 .agenciarubik-pricing-body ul li {
   position: relative;
@@ -4803,7 +4804,7 @@ a.agenciarubik-connect-login img {
 @media (max-width: 991px) {
   .agenciarubik-v3-thumb {
     margin-right: 0;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
   }
 }
 .agenciarubik-v3-card {
@@ -4884,7 +4885,7 @@ a.agenciarubik-connect-login img {
 }
 @media (max-width: 767px) {
   .agenciarubik-section-padding {
-    padding: 80px 0;
+    padding: 40px 0;
   }
 }
 .agenciarubik-section-padding2 {
@@ -4927,12 +4928,15 @@ a.agenciarubik-connect-login img {
 @media (max-width: 991px) {
   .agenciarubik-section-padding5 {
     padding: 0 0 100px;
+
   }
+
 }
 @media (max-width: 767px) {
   .agenciarubik-section-padding5 {
-    padding: 0 0 80px;
+    padding: 0 0 0px;
   }
+
 }
 .agenciarubik-section-padding6 {
   padding: 80px 0 56px;
@@ -4960,7 +4964,7 @@ a.agenciarubik-connect-login img {
 @media (max-width: 991px) {
   .agenciarubik-section-title {
     padding-bottom: 60px;
-    text-align: center;
+    text-align: left;
   }
 }
 @media (max-width: 767px) {
@@ -5014,7 +5018,7 @@ a.agenciarubik-connect-login img {
 }
 @media (max-width: 991px) {
   .agenciarubik-default-content {
-    text-align: center;
+    text-align: left;
   }
 }
 @media (max-width: 1399px) {
@@ -5522,9 +5526,9 @@ button#agenciarubik-notified-btn:hover {
 }
 
 .gallery img {
+  display: block;
   width: 100%;
   border-radius: 8px;
-  display: block;
 }
 
 .grid {
@@ -5535,8 +5539,8 @@ button#agenciarubik-notified-btn:hover {
 
 .grid-item {
   width: calc(33.33% - 10px);
-  margin-bottom: 10px;
   padding-left: 10px;
+  margin-bottom: 10px;
 }
 
 @media (max-width: 768px) {

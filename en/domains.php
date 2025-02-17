@@ -26,9 +26,9 @@ include 'nav.php';
 
   <div class="container mb-5 ">
     <div class="row d-flex align-items-center">
-      <div class="col-lg-5">
+      <div class="col-lg-5 p-5">
         <div class="agenciarubik-v3-thumb">
-          <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
+          <img src="https://agenciarubik.com/assets/images/dominios.svg" title="Domains" alt="Domains">
 
         </div>
       </div>
@@ -86,7 +86,7 @@ include 'nav.php';
 <div class="container mb-5">
   <div class="row d-flex align-items-center">
 
-    <div class="col-lg-7">
+    <div class="col-lg-12">
 
       <div class="agenciarubik-default-content mt-5">
         <h2 class="mb-3">Why choose us</h2>
@@ -108,12 +108,7 @@ include 'nav.php';
         </div>
       </div>
     </div>
-    <div class="col-lg-5">
-      <div class="agenciarubik-v3-thumb">
-        <img src="https://agenciarubik.com/assets/images/seo.svg" title="SEO" alt="SEO">
 
-      </div>
-    </div>
   </div>
 </div>
 

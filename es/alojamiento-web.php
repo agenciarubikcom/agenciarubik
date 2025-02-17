@@ -22,7 +22,7 @@ include 'nav.php';
 
 <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title ">
             <h2 class="rt-mb-20">Tu solución de alojamiento web de confianza</h2>
             <p>Entendemos que tu presencia en línea es crucial para el éxito de tu negocio. Por eso, hemos creado un servicio de alojamiento web de alta calidad diseñado para ofrecerte la mejor experiencia posible.</p>
         </div>

@@ -22,7 +22,7 @@ include 'nav.php';
 
 <div class="section agenciarubik-section-padding">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title ">
             <h2 class="rt-mb-20">Quick solutions to your WordPress problems!</h2>
             <p>We understand how crucial it is to have your website running smoothly. That's why we offer an urgent WordPress maintenance support service designed to solve any problem you're facing, whether it's malware, infrastructure issues, or any other issue.</p>
         </div>
@@ -87,7 +87,7 @@ include 'nav.php';
 
 <div class="container mb-5">
 <div class="row d-flex align-items-center">
-        <div class="col-lg-5">
+        <div class="col-lg-5  p-5">
             <div class="agenciarubik-v3-thumb">
                 <img src="https://agenciarubik.com/assets/images/soporte-wordpress.svg" title="Support WordPress" alt="Support WordPress">
 

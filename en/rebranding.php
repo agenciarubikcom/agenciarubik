@@ -1,8 +1,8 @@
 <?php
-$URLTitleES = "es/kit-digital";
-$URLTitleEN = "en/digital-kit";
-$URLLink = "es/kit-digital";
-$Description = "Descubre el Kit Digital: Todo lo que necesitas para establecer una presencia en línea profesional";
+$URLTitleES = "es/rebranding";
+$URLTitleEN = "en/rebranding";
+$URLLink = "es/rebranding";
+$Description = "Renew your brand with a striking and strategic design. Stand out and connect with your audience.";
 include '../header.php';
 include 'nav.php';
 ?>
@@ -10,10 +10,10 @@ include 'nav.php';
 
 <div class="agenciarubik-breadcrumb">
     <div class="container">
-        <h1 class="post__title">Kit Digital</h1>
+        <h1 class="post__title">ReBranding</h1>
         <nav class="breadcrumbs">
             <ul>
-                <li aria-current="page">Productos</li>
+                <li aria-current="page">Design</li>
             </ul>
         </nav>
     </div>

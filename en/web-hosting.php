@@ -22,7 +22,7 @@ include 'nav.php';
 
 <div class="section mt-5">
     <div class="container">
-        <div class="agenciarubik-section-title center">
+        <div class="agenciarubik-section-title ">
             <h2 class="rt-mb-20">Your trusted web hosting solution</h2>
             <p>We understand that your online presence is crucial to the success of your business. That's why we've created a high-quality web hosting service designed to give you the best experience possible.</p>
         </div>

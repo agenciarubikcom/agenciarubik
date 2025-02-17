@@ -59,7 +59,7 @@ Our Digital Kit also includes maintenance and 24/7 technical support via email t
 <div class="section">
     <div class="container">
         <div class="agenciarubik-section-title agenciarubik-two-column-title">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="agenciarubik-v3-thumb p-5">
                         <img src="https://agenciarubik.com/assets/images/kit-digital.svg" title="Digital Kit" alt="Digital Kit">

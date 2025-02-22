@@ -33,7 +33,7 @@ include 'nav.php';
 <div class="section mb-5">
     <div class="container">
       <div class="row agenciarubik-pricing-four-column" id="table-price-value">
-        <div class="col-xl-4 col-md-6 " data-aos="zoom-in-up">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack Banners</h3>
@@ -55,7 +55,7 @@ include 'nav.php';
             </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6" data-aos="zoom-in-up">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack RRSS</h3>
@@ -77,7 +77,7 @@ include 'nav.php';
             </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6" data-aos="zoom-in-up">
+        <div class="col-xl-4 col-md-6">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack Híbrido</h3>

@@ -41,10 +41,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Auditoría SEO Completa</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -55,10 +55,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Investigación avanzada de palabras clave</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -69,10 +69,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Optimización On-Page</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -83,10 +83,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Estrategias de link building de alta calidad</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -97,10 +97,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Contenido optimizado y valioso</h3>
             <div class="agenciarubik-active-icon plus">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -111,10 +111,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Mejora de la velocidad y experiencia del usuario</h3>
             <div class="agenciarubik-active-icon plus">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">

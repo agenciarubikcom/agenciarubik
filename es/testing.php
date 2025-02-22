@@ -36,10 +36,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Inmersión profunda en tu proyecto</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -50,10 +50,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Mapa de funcionalidades críticas</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -64,10 +64,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Plan de pruebas a medida</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -78,10 +78,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Plan de pruebas adaptativo y heurístico</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -92,10 +92,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Incorporando heurísticas en nuestro proceso</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -106,10 +106,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Una alianza estratégica</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">

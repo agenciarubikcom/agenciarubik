@@ -41,10 +41,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Instalación y configuración personalizada</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -58,10 +58,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Administración y soporte continuo</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">
@@ -75,10 +75,10 @@ include 'nav.php';
           <div class="agenciarubik-accordion-header">
             <h3>Optimización de costos y rendimiento</h3>
             <div class="agenciarubik-active-icon">
-              <img src="../assets/images/v3/plus.png" alt="+">
+              <img src="../assets/images/v3/plus.png" width="18px" alt="+">
             </div>
             <div class="agenciarubik-inactive-icon">
-              <img src="../assets/images/v3/minus.png" alt="-">
+              <img src="../assets/images/v3/minus.png" width="18px" alt="-">
             </div>
           </div>
           <div class="agenciarubik-accordion-body">

@@ -27,7 +27,6 @@ include 'nav.php';
             <p>En el vasto mundo digital de hoy, tener un sitio web es solo el primer paso. <br><br>
             <b>La clave para destacar entre millones de sitios</b>: Nuestro servicio de SEO para páginas web está diseñado para catapultar tu sitio a las primeras posiciones en los resultados de búsqueda, aumentando tu visibilidad y atrayendo más tráfico cualificado. Descubre cómo podemos transformar la presencia en línea de tu negocio.
 
-
 </p>
         </div>
     </div>
@@ -131,7 +130,7 @@ include 'nav.php';
     <div class="row d-flex align-items-center">
     <div class="col-lg-5">
     <div class="agenciarubik-v3-thumb">
-        <img src="/assets/images/seo.svg" title="SEO" alt="SEO">
+        <img width="500px" src="/assets/images/seo.svg" title="SEO" alt="SEO">
     </div>
     </div>
     <div class="col-lg-7">

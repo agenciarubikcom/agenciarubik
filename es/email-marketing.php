@@ -126,7 +126,7 @@ include 'nav.php';
     <div class="row d-flex align-items-center">
     <div class="col-lg-5">
     <div class="agenciarubik-v3-thumb">
-        <img src="/assets/images/email-marketing.svg" title="Email Marketing" alt="Email Marketing">
+        <img width="500px" src="/assets/images/email-marketing.svg" title="Email Marketing" alt="Email Marketing">
     </div>
     </div>
     <div class="col-lg-7">

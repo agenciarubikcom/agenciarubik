@@ -7,9 +7,7 @@
     <title>Agencia Rubik</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Raleway:wght@600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://agenciarubik.com/assets/css/magnific-popup.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/slick.css">
-    <link rel="stylesheet" href="https://agenciarubik.com/assets/css/animate.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/fontawesome.css">
     <link rel="stylesheet" href="https://agenciarubik.com/assets/css/main.css">
     <link rel="stylesheet" href="/assets/css/app.css">
@@ -42,14 +40,14 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <body class="light">
-        <div class="agenciarubik-preloader-wrap">
+        <!--<div class="agenciarubik-preloader-wrap">
             <div class="agenciarubik-preloader">
                 <div></div>
                 <div></div>
                 <div></div>
                 <div></div>
             </div>
-        </div>
+        </div>-->
         <div class="container circle">
         <div id="circle">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">

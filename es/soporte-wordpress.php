@@ -93,7 +93,7 @@ include 'nav.php';
     <div class="row d-flex align-items-center">
     <div class="col-lg-5">
     <div class="agenciarubik-v3-thumb">
-        <img src="/assets/images/soporte-wordpress.svg" title="Banners y Redes" alt="Banners y Redes">
+        <img width="500px" src="/assets/images/soporte-wordpress.svg" title="Banners y Redes" alt="Banners y Redes">
     </div>
     </div>
     <div class="col-lg-7">

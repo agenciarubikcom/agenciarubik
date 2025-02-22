@@ -19,6 +19,8 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://agenciarubik.com/assets/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://agenciarubik.com/assets/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://agenciarubik.com/assets/images/favicon-16x16.png">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <link rel="manifest" href="https://agenciarubik.com/assets/images/site.webmanifest">
     <link rel="alternate" hreflang="es" href="https://agenciarubik.com/<?php echo isset($URLTitleES) ? $URLTitleES : 'Agencia Rubik'; ?>" />
     <link rel="alternate" hreflang="en" href="https://agenciarubik.com/<?php echo isset($URLTitleEN) ? $URLTitleEN : 'Agencia Rubik'; ?>" />
@@ -48,3 +50,19 @@
                 <div></div>
             </div>
         </div>
+        <div class="container circle">
+        <div id="circle">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+    <defs>
+        <path id="circlePath" d="M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "/>
+    </defs>
+    <circle cx="150" cy="100" r="75" fill="none"/>
+    <g>
+        <use xlink:href="#circlePath" fill="none"/>
+        <text fill="#fff">
+            <textPath xlink:href="#circlePath">Experiencias digitales únicas y efectivas</textPath>
+        </text>
+    </g>
+</svg>
+</div>
+</div>

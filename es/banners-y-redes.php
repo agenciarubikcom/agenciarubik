@@ -23,7 +23,7 @@ include 'nav.php';
 <div class="section mt-5">
     <div class="container">
         <div class="agenciarubik-section-title ">
-            <h2 class="rt-mb-20">¡Transforma tu presencia digital con nuestro servicio de diseño!</h2>
+            <h2 class="rt-mb-20 " >¡Transforma tu presencia digital con nuestro servicio de diseño!</h2>
             <p>Banners, redes sociales y más: Todo lo que necesitas para impactar a tu audiencia</p>
         </div>
     </div>
@@ -33,7 +33,7 @@ include 'nav.php';
 <div class="section mb-5">
     <div class="container">
       <div class="row agenciarubik-pricing-four-column" id="table-price-value">
-        <div class="col-xl-4 col-md-6">
+        <div class="col-xl-4 col-md-6 " data-aos="zoom-in-up">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack Banners</h3>
@@ -47,15 +47,15 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 tamaños de banners</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades por tamaño</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 creatividades HTML5</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 revisiones</li>
-                <li><br></li>
-                <li><br></li>
-                <li><br></li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 revisiones</li>
+                <li class="hide-xs"><br></li>
+                <li class="hide-xs"><br></li>
+                <li class="hide-xs"><br></li>
               </ul>
             </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6">
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in-up">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack RRSS</h3>
@@ -70,14 +70,14 @@ include 'nav.php';
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">5 reels para Instagram</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">1 video</li>
                 <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">Copy sugerido</li>
-                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">2 revisiones</li>
-                <li><br></li>
-                <li><br></li>
+                <li><img src="../assets/images/v3/check.png" title="Check" alt="Check">3 revisiones</li>
+                <li class="hide-xs"><br></li>
+                <li class="hide-xs"><br></li>
               </ul>
             </div>
           </div>
         </div>
-        <div class="col-xl-4 col-md-6">
+        <div class="col-xl-4 col-md-6" data-aos="zoom-in-up">
           <div class="agenciarubik-pricing-wrap">
             <div class="agenciarubik-pricing-header">
               <h3>Pack Híbrido</h3>
@@ -107,10 +107,10 @@ include 'nav.php';
     <div class="container">
       <div class="agenciarubik-section-title agenciarubik-two-column-title">
         <div class="row">
-          <div class="col-lg-7">
-            <h2>¿Por qué elegir nuestros paquetes de diseño?</h2>
+          <div class="col-lg-6">
+            <h2 class="type">¿Por qué elegir nuestros paquetes de diseño?</h2>
           </div>
-          <div class="col-lg-5 d-flex align-items-center">
+          <div class="col-lg-6 d-flex align-items-center">
             <p>En un mundo digital saturado, destacarse es esencial. Nuestros paquetes están diseñados para proporcionar a tu marca contenido visual de alta calidad que atrae, involucra y convierte. Desde banners animados hasta contenido atractivo para redes sociales, tenemos todo lo que necesitas para llevar tu presencia digital al siguiente nivel.</p>
           </div>
         </div>
@@ -119,12 +119,12 @@ include 'nav.php';
     </div>
   </div>
 
-  <div class="section mt-5">
+  <div class="section my-2">
     <div class="container">
     <div class="row d-flex align-items-center">
     <div class="col-lg-5">
     <div class="agenciarubik-v3-thumb">
-        <img src="https://agenciarubik.com/assets/images/banners-y-redes.svg" title="Banners y Redes" alt="Banners y Redes">
+        <img src="/assets/images/banners-y-redes.svg" title="Banners y Redes" alt="Banners y Redes">
     </div>
     </div>
     <div class="col-lg-7">

@@ -69,6 +69,7 @@
 <script src="https://agenciarubik.com/assets/js/jquery-3.6.0.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/bootstrap.bundle.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/menu/menu.js"></script>
+<script src="https://agenciarubik.com/assets/js/aos.js"></script>
 <script src="https://agenciarubik.com/assets/js/isotope.pkgd.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/jquery.magnific-popup.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/slick.js"></script>
@@ -76,6 +77,9 @@
 <script src="https://agenciarubik.com/assets/js/wow.min.js"></script>
 <script src="https://agenciarubik.com/assets/js/faq.js"></script>
 <script src="https://agenciarubik.com/assets/js/app.js"></script>
+<script>
+  AOS.init();
+</script>
 <?php
 $htmlContent = ob_get_clean();
 $additionalText = "Agencia Rubik";

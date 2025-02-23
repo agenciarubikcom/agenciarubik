@@ -111,11 +111,11 @@ echo '<script type="application/ld+json">' . json_encode($schema) . '</script>';
                       <span class="menu-item-text"><?php echo translate('cat-landingpage-title', $lang, $translations); ?></span>
                     </a>
                   </li>
-                  <li class="sub-menu--item">
+                  <!--<li class="sub-menu--item">
                     <a href="leads-pages">
                       <span class="menu-item-text"><?php echo translate('cat-leadspage-title', $lang, $translations); ?></span>
                     </a>
-                  </li>
+                  </li>-->
                   <li class="sub-menu--item">
                     <a href="wordpress">
                       <span class="menu-item-text"><?php echo translate('cat-wordpress-title', $lang, $translations); ?></span>

@@ -4089,6 +4089,11 @@ span.agenciarubik-title-shape {
   color: var(--body-color) !important;
   font-size: 18px;
 }
+
+.agenciarubik-accordion-wrap2 .agenciarubik-accordion-body ul li {
+  color: var(--body-color) !important;
+  font-size: 18px;
+}
 .agenciarubik-accordion-wrap2 .agenciarubik-accordion-item.open {
   background-color: transparent;
 }
@@ -5772,7 +5777,6 @@ a.agenciarubik-connect-login img {
 
 .agenciarubik-section-title {
   padding-bottom: 80px;
-  padding-bottom: 80px;
 }
 .agenciarubik-section-title.center {
   max-width: 830px;
@@ -6545,3 +6549,4 @@ button#agenciarubik-notified-btn:hover {
  -o-border-radius: 10px;
  border-radius: 10px;
 }
+
